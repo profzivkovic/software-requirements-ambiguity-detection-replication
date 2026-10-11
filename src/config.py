@@ -23,6 +23,8 @@ SPLITS_DIR = DATA_DIR / "splits"
 INTRA_SPLITS_DIR = SPLITS_DIR / "intra"
 CROSS_SPLITS_DIR = SPLITS_DIR / "cross"
 
+SIZE_MATCHED_SPLITS_DIR = SPLITS_DIR / "size_matched"
+
 
 
 
@@ -119,6 +121,10 @@ CLASSICAL_PREDICTIONS_PATH = (
 
 SIZE_MATCHED_SPLITS_DIR = SPLITS_DIR / "size_matched"
 
+TRANSFORMER_SIZE_MATCHED_SPLITS_DIR = (
+    SPLITS_DIR / "size_matched_transformer"
+)
+
 CLASSICAL_SIZE_MATCHED_RESULTS_PATH = (
     RESULTS_RAW_DIR / "classical_size_matched_results.csv"
 )
@@ -204,6 +210,7 @@ def ensure_project_dirs() -> None:
         INTRA_SPLITS_DIR,
         CROSS_SPLITS_DIR,
         SIZE_MATCHED_SPLITS_DIR,
+        TRANSFORMER_SIZE_MATCHED_SPLITS_DIR,
         RESULTS_RAW_DIR,
         RESULTS_SUMMARY_DIR,
         FIGURES_DIR,

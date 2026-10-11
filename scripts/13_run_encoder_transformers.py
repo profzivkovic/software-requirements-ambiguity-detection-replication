@@ -31,6 +31,7 @@ from src.encoder_transformers import (
     DEFAULT_EPOCHS,
     load_intra_partitions,
     load_cross_partitions,
+    load_matched_cross_partitions,
     print_partition_summary,
     train_transformer,
 )
@@ -164,6 +165,7 @@ def parse_args():
         choices=[
             "intra",
             "cross",
+            "cross_matched",
         ],
     )
 
@@ -227,12 +229,12 @@ def main() -> None:
                     train_dataset_name
                 ],
                 dataset_name=
-                    train_dataset_name,
+                train_dataset_name,
                 seed=args.seed,
             )
         )
 
-    else:
+    elif args.setting == "cross":
         test_dataset_name = (
             get_cross_target(
                 train_dataset_name
@@ -245,12 +247,35 @@ def main() -> None:
                     train_dataset_name
                 ],
                 source_name=
-                    train_dataset_name,
+                train_dataset_name,
                 target_df=datasets[
                     test_dataset_name
                 ],
                 seed=args.seed,
             )
+        )
+
+    elif args.setting == "cross_matched":
+        if train_dataset_name != "PURE":
+            raise ValueError(
+                "cross_matched is defined only for "
+                "PURE -> UserStories because PURE is "
+                "the larger source corpus."
+            )
+
+        test_dataset_name = "UserStories"
+
+        partitions = (
+            load_matched_cross_partitions(
+                pure_df=datasets["PURE"],
+                target_df=datasets["UserStories"],
+                seed=args.seed,
+            )
+        )
+
+    else:
+        raise ValueError(
+            f"Unknown setting: {args.setting}"
         )
 
     run_name = build_run_name(

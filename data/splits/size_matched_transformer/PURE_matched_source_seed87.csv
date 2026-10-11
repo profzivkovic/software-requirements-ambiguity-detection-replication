@@ -1,0 +1,1675 @@
+instance_id,source_file,label,split,seed,matched_subset_size
+PURE_002028,2003 - agentmom.pdf,0,train,87,1674
+PURE_002029,2003 - agentmom.pdf,1,train,87,1674
+PURE_002030,2003 - agentmom.pdf,1,train,87,1674
+PURE_002031,2003 - agentmom.pdf,0,train,87,1674
+PURE_002032,2003 - agentmom.pdf,0,train,87,1674
+PURE_002033,2003 - agentmom.pdf,0,train,87,1674
+PURE_002034,2003 - agentmom.pdf,0,train,87,1674
+PURE_002035,2003 - agentmom.pdf,0,train,87,1674
+PURE_002036,2003 - agentmom.pdf,0,train,87,1674
+PURE_002037,2003 - agentmom.pdf,0,train,87,1674
+PURE_002038,2003 - agentmom.pdf,0,train,87,1674
+PURE_002039,2003 - agentmom.pdf,1,train,87,1674
+PURE_002040,2003 - agentmom.pdf,1,train,87,1674
+PURE_002041,2003 - agentmom.pdf,0,train,87,1674
+PURE_002042,2003 - agentmom.pdf,0,train,87,1674
+PURE_002043,2003 - agentmom.pdf,0,train,87,1674
+PURE_002044,2003 - agentmom.pdf,0,train,87,1674
+PURE_002045,2003 - agentmom.pdf,0,train,87,1674
+PURE_002046,2003 - agentmom.pdf,0,train,87,1674
+PURE_002047,2003 - agentmom.pdf,0,train,87,1674
+PURE_002048,2003 - agentmom.pdf,0,train,87,1674
+PURE_002049,2003 - agentmom.pdf,1,train,87,1674
+PURE_002050,2003 - agentmom.pdf,0,train,87,1674
+PURE_002051,2003 - agentmom.pdf,0,train,87,1674
+PURE_002052,2003 - agentmom.pdf,0,train,87,1674
+PURE_002053,2003 - agentmom.pdf,0,train,87,1674
+PURE_002054,2003 - agentmom.pdf,0,train,87,1674
+PURE_002055,2003 - agentmom.pdf,0,train,87,1674
+PURE_002056,2003 - pnnl.pdf,0,train,87,1674
+PURE_002057,2003 - pnnl.pdf,0,train,87,1674
+PURE_002058,2003 - pnnl.pdf,0,train,87,1674
+PURE_002059,2003 - pnnl.pdf,1,train,87,1674
+PURE_002060,2003 - pnnl.pdf,0,train,87,1674
+PURE_002061,2003 - pnnl.pdf,1,train,87,1674
+PURE_002062,2003 - pnnl.pdf,0,train,87,1674
+PURE_002063,2003 - pnnl.pdf,0,train,87,1674
+PURE_002064,2003 - pnnl.pdf,1,train,87,1674
+PURE_002065,2003 - pnnl.pdf,1,train,87,1674
+PURE_002066,2003 - pnnl.pdf,1,train,87,1674
+PURE_002067,2003 - pnnl.pdf,0,train,87,1674
+PURE_002068,2003 - pnnl.pdf,0,train,87,1674
+PURE_002069,2003 - pnnl.pdf,0,train,87,1674
+PURE_002070,2003 - pnnl.pdf,1,train,87,1674
+PURE_002071,2003 - pnnl.pdf,0,train,87,1674
+PURE_002072,2003 - pnnl.pdf,0,train,87,1674
+PURE_002073,2003 - pnnl.pdf,1,train,87,1674
+PURE_002074,2003 - pnnl.pdf,1,train,87,1674
+PURE_002075,2003 - pnnl.pdf,0,train,87,1674
+PURE_002076,2003 - pnnl.pdf,1,train,87,1674
+PURE_002077,2003 - pnnl.pdf,1,train,87,1674
+PURE_002078,2003 - pnnl.pdf,0,train,87,1674
+PURE_002079,2003 - pnnl.pdf,0,train,87,1674
+PURE_002080,2003 - pnnl.pdf,1,train,87,1674
+PURE_002081,2003 - pnnl.pdf,1,train,87,1674
+PURE_002082,2003 - pnnl.pdf,0,train,87,1674
+PURE_002083,2003 - pnnl.pdf,1,train,87,1674
+PURE_002084,2003 - pnnl.pdf,0,train,87,1674
+PURE_002085,2003 - pnnl.pdf,1,train,87,1674
+PURE_002086,2003 - pnnl.pdf,1,train,87,1674
+PURE_002087,2003 - pnnl.pdf,1,train,87,1674
+PURE_002088,2003 - pnnl.pdf,1,train,87,1674
+PURE_002089,2003 - pnnl.pdf,1,train,87,1674
+PURE_002090,2003 - pnnl.pdf,1,train,87,1674
+PURE_002091,2003 - pnnl.pdf,1,train,87,1674
+PURE_002092,2003 - pnnl.pdf,0,train,87,1674
+PURE_002093,2003 - pnnl.pdf,1,train,87,1674
+PURE_002094,2003 - pnnl.pdf,1,train,87,1674
+PURE_002095,2003 - pnnl.pdf,1,train,87,1674
+PURE_002096,2003 - pnnl.pdf,1,train,87,1674
+PURE_002097,2003 - pnnl.pdf,1,train,87,1674
+PURE_002098,2003 - pnnl.pdf,1,train,87,1674
+PURE_002099,2003 - pnnl.pdf,1,train,87,1674
+PURE_002100,2003 - pnnl.pdf,1,train,87,1674
+PURE_002101,2003 - pnnl.pdf,0,train,87,1674
+PURE_002102,2003 - pnnl.pdf,1,train,87,1674
+PURE_002103,2003 - pnnl.pdf,1,train,87,1674
+PURE_002104,2003 - pnnl.pdf,0,train,87,1674
+PURE_002105,2003 - pnnl.pdf,1,train,87,1674
+PURE_002106,2003 - pnnl.pdf,1,train,87,1674
+PURE_002107,2003 - pnnl.pdf,1,train,87,1674
+PURE_002108,2003 - pnnl.pdf,1,train,87,1674
+PURE_002109,2003 - pnnl.pdf,0,train,87,1674
+PURE_002110,2003 - pnnl.pdf,0,train,87,1674
+PURE_002111,2003 - pnnl.pdf,0,train,87,1674
+PURE_002112,2003 - pnnl.pdf,0,train,87,1674
+PURE_002113,2003 - pnnl.pdf,0,train,87,1674
+PURE_002114,2003 - pnnl.pdf,0,train,87,1674
+PURE_002115,2003 - pnnl.pdf,0,train,87,1674
+PURE_002116,2003 - pnnl.pdf,0,train,87,1674
+PURE_002117,2003 - pnnl.pdf,0,train,87,1674
+PURE_002118,2003 - pnnl.pdf,0,train,87,1674
+PURE_002119,2003 - pnnl.pdf,1,train,87,1674
+PURE_002120,2003 - pnnl.pdf,1,train,87,1674
+PURE_002121,2003 - pnnl.pdf,0,train,87,1674
+PURE_002122,2003 - pnnl.pdf,0,train,87,1674
+PURE_002123,2003 - pnnl.pdf,0,train,87,1674
+PURE_002124,2003 - pnnl.pdf,0,train,87,1674
+PURE_002125,2003 - pnnl.pdf,1,train,87,1674
+PURE_002126,2003 - pnnl.pdf,0,train,87,1674
+PURE_002127,2003 - pnnl.pdf,0,train,87,1674
+PURE_002128,2003 - pnnl.pdf,1,train,87,1674
+PURE_002129,2003 - pnnl.pdf,0,train,87,1674
+PURE_002130,2003 - pnnl.pdf,0,train,87,1674
+PURE_002131,2003 - pnnl.pdf,0,train,87,1674
+PURE_002132,2003 - pnnl.pdf,0,train,87,1674
+PURE_002133,2003 - pnnl.pdf,0,train,87,1674
+PURE_002134,2003 - pnnl.pdf,0,train,87,1674
+PURE_002135,2003 - pnnl.pdf,0,train,87,1674
+PURE_002136,2003 - pnnl.pdf,0,train,87,1674
+PURE_002137,2003 - pnnl.pdf,0,train,87,1674
+PURE_002138,2003 - pnnl.pdf,0,train,87,1674
+PURE_002139,2003 - pnnl.pdf,0,train,87,1674
+PURE_002140,2003 - pnnl.pdf,0,train,87,1674
+PURE_002141,2003 - pnnl.pdf,0,train,87,1674
+PURE_002142,2003 - pnnl.pdf,0,train,87,1674
+PURE_002143,2003 - pnnl.pdf,1,train,87,1674
+PURE_002144,2003 - pnnl.pdf,0,train,87,1674
+PURE_002145,2003 - pnnl.pdf,0,train,87,1674
+PURE_002146,2003 - pnnl.pdf,1,train,87,1674
+PURE_002147,2003 - pnnl.pdf,1,train,87,1674
+PURE_002148,2003 - pnnl.pdf,1,train,87,1674
+PURE_002149,2003 - pnnl.pdf,0,train,87,1674
+PURE_002150,2003 - pnnl.pdf,0,train,87,1674
+PURE_002151,2003 - pnnl.pdf,0,train,87,1674
+PURE_002152,2003 - pnnl.pdf,1,train,87,1674
+PURE_002153,2003 - pnnl.pdf,1,train,87,1674
+PURE_002154,2003 - pnnl.pdf,1,train,87,1674
+PURE_002155,2003 - pnnl.pdf,1,train,87,1674
+PURE_002156,2003 - pnnl.pdf,1,train,87,1674
+PURE_002157,2003 - pnnl.pdf,1,train,87,1674
+PURE_002158,2003 - pnnl.pdf,1,train,87,1674
+PURE_002159,2003 - pnnl.pdf,1,train,87,1674
+PURE_002160,2003 - pnnl.pdf,1,train,87,1674
+PURE_002161,2003 - pnnl.pdf,1,train,87,1674
+PURE_002162,2003 - pnnl.pdf,0,train,87,1674
+PURE_002163,2003 - pnnl.pdf,1,train,87,1674
+PURE_002164,2003 - pnnl.pdf,1,train,87,1674
+PURE_002165,2003 - pnnl.pdf,1,train,87,1674
+PURE_002166,2003 - pnnl.pdf,1,train,87,1674
+PURE_002167,2003 - pnnl.pdf,0,train,87,1674
+PURE_002168,2003 - pnnl.pdf,0,train,87,1674
+PURE_002169,2003 - pnnl.pdf,0,train,87,1674
+PURE_002170,2003 - pnnl.pdf,1,train,87,1674
+PURE_002171,2003 - pnnl.pdf,1,train,87,1674
+PURE_002172,2003 - pnnl.pdf,0,train,87,1674
+PURE_002173,2003 - pnnl.pdf,0,train,87,1674
+PURE_002174,2003 - pnnl.pdf,1,train,87,1674
+PURE_002175,2003 - pnnl.pdf,1,train,87,1674
+PURE_002176,2003 - pnnl.pdf,0,train,87,1674
+PURE_002177,2003 - pnnl.pdf,0,train,87,1674
+PURE_002178,2003 - pnnl.pdf,0,train,87,1674
+PURE_002179,2003 - pnnl.pdf,1,train,87,1674
+PURE_002180,2003 - pnnl.pdf,0,train,87,1674
+PURE_002181,2003 - pnnl.pdf,1,train,87,1674
+PURE_002182,2003 - pnnl.pdf,1,train,87,1674
+PURE_002183,2003 - pnnl.pdf,1,train,87,1674
+PURE_002184,2003 - pnnl.pdf,1,train,87,1674
+PURE_002185,2003 - pnnl.pdf,1,train,87,1674
+PURE_002186,2003 - pnnl.pdf,0,train,87,1674
+PURE_002187,2003 - pnnl.pdf,1,train,87,1674
+PURE_002188,2003 - pnnl.pdf,1,train,87,1674
+PURE_002189,2003 - pnnl.pdf,0,train,87,1674
+PURE_002190,2003 - pnnl.pdf,0,train,87,1674
+PURE_002191,2003 - pnnl.pdf,0,train,87,1674
+PURE_002192,2003 - pnnl.pdf,0,train,87,1674
+PURE_002193,2003 - pnnl.pdf,1,train,87,1674
+PURE_002194,2003 - pnnl.pdf,1,train,87,1674
+PURE_002195,2003 - pnnl.pdf,1,train,87,1674
+PURE_002196,2003 - pnnl.pdf,1,train,87,1674
+PURE_002197,2003 - pnnl.pdf,1,train,87,1674
+PURE_002198,2003 - pnnl.pdf,1,train,87,1674
+PURE_002199,2003 - pnnl.pdf,0,train,87,1674
+PURE_002200,2003 - pnnl.pdf,0,train,87,1674
+PURE_002201,2003 - pnnl.pdf,1,train,87,1674
+PURE_002202,2003 - pnnl.pdf,1,train,87,1674
+PURE_002203,2003 - pnnl.pdf,0,train,87,1674
+PURE_002204,2003 - pnnl.pdf,1,train,87,1674
+PURE_002205,2003 - pnnl.pdf,0,train,87,1674
+PURE_002206,2003 - pnnl.pdf,0,train,87,1674
+PURE_002207,2003 - pnnl.pdf,0,train,87,1674
+PURE_002208,2003 - pnnl.pdf,0,train,87,1674
+PURE_002209,2003 - pnnl.pdf,1,train,87,1674
+PURE_002210,2003 - pnnl.pdf,1,train,87,1674
+PURE_002211,2003 - pnnl.pdf,0,train,87,1674
+PURE_002212,2003 - pnnl.pdf,1,train,87,1674
+PURE_002213,2003 - pnnl.pdf,0,train,87,1674
+PURE_002214,2003 - pnnl.pdf,0,train,87,1674
+PURE_002215,2003 - pnnl.pdf,0,train,87,1674
+PURE_002216,2003 - pnnl.pdf,1,train,87,1674
+PURE_002217,2003 - pnnl.pdf,0,train,87,1674
+PURE_002218,2003 - pnnl.pdf,0,train,87,1674
+PURE_002219,2003 - pnnl.pdf,0,train,87,1674
+PURE_002220,2003 - pnnl.pdf,0,train,87,1674
+PURE_002221,2003 - pnnl.pdf,0,train,87,1674
+PURE_002222,2003 - pnnl.pdf,1,train,87,1674
+PURE_002223,2003 - pnnl.pdf,1,train,87,1674
+PURE_002224,2003 - pnnl.pdf,0,train,87,1674
+PURE_002225,2003 - pnnl.pdf,1,train,87,1674
+PURE_002226,2003 - pnnl.pdf,1,train,87,1674
+PURE_002227,2003 - pnnl.pdf,0,train,87,1674
+PURE_002228,2003 - pnnl.pdf,0,train,87,1674
+PURE_002229,2003 - pnnl.pdf,0,train,87,1674
+PURE_002230,2003 - pnnl.pdf,0,train,87,1674
+PURE_002231,2003 - pnnl.pdf,0,train,87,1674
+PURE_002232,2003 - pnnl.pdf,1,train,87,1674
+PURE_002233,2003 - pnnl.pdf,1,train,87,1674
+PURE_002234,2003 - pnnl.pdf,1,train,87,1674
+PURE_002235,2003 - pnnl.pdf,1,train,87,1674
+PURE_002236,2003 - pnnl.pdf,0,train,87,1674
+PURE_002237,2003 - pnnl.pdf,0,train,87,1674
+PURE_002238,2003 - pnnl.pdf,1,train,87,1674
+PURE_002239,2003 - pnnl.pdf,0,train,87,1674
+PURE_002240,2003 - pnnl.pdf,1,train,87,1674
+PURE_002241,2003 - pnnl.pdf,0,train,87,1674
+PURE_002242,2003 - pnnl.pdf,0,train,87,1674
+PURE_002243,2003 - pnnl.pdf,1,train,87,1674
+PURE_002244,2003 - pnnl.pdf,0,train,87,1674
+PURE_002245,2003 - pnnl.pdf,1,train,87,1674
+PURE_002246,2003 - pnnl.pdf,0,train,87,1674
+PURE_002247,2003 - pnnl.pdf,1,train,87,1674
+PURE_002248,2003 - pnnl.pdf,1,train,87,1674
+PURE_002249,2003 - pnnl.pdf,0,train,87,1674
+PURE_002250,2003 - pnnl.pdf,0,train,87,1674
+PURE_002251,2003 - pnnl.pdf,0,train,87,1674
+PURE_002269,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002270,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002271,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002272,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002273,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002274,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002275,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002276,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002277,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002278,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002279,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002280,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002281,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002282,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002283,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002284,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002285,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002286,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002287,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002288,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002289,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002290,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002291,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002292,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002293,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002294,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002295,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002296,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002297,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002298,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002299,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002300,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002301,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002302,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002303,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002304,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002305,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002306,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002307,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002308,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002309,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002310,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002311,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002312,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002313,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002314,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002315,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002316,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002317,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002318,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002319,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002320,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002321,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002322,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002323,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002324,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002325,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002326,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002327,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002328,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002329,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002330,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002331,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002332,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002333,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002334,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002335,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002336,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002337,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002338,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002339,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002340,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002341,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002342,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002343,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002344,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002345,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002346,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002347,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002348,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002349,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002350,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002351,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002352,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002353,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002354,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002355,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002356,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002357,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002358,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002359,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002360,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002361,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002362,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002363,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002364,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002365,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002366,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002367,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002368,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002369,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002370,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002371,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002372,2003 - tachonet.pdf,0,validation,87,1674
+PURE_002373,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002374,2003 - tachonet.pdf,1,validation,87,1674
+PURE_002435,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002436,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002437,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002438,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002439,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002440,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002441,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002442,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002443,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002444,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002445,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002446,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002447,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002448,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002449,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002450,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002451,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002452,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002453,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002454,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002455,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002456,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002457,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002458,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002459,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002460,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002461,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002462,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002463,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002464,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002465,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002466,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002467,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002468,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002469,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002470,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002471,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002472,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002473,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002474,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002475,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002476,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002477,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002478,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002479,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002480,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002481,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002482,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002483,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002484,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002485,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002486,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002487,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002488,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002489,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002490,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002491,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002492,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002493,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002494,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002495,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002496,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002497,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002498,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002499,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002500,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002501,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002502,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002503,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002504,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002505,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002506,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002507,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002508,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002509,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002510,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002511,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002512,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002513,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002514,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002515,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002516,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002517,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002518,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002519,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002520,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002521,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002522,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002523,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002524,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002525,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002526,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002527,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002528,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002529,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002530,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002531,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002532,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002533,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002534,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002535,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002536,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002537,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002538,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002539,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002540,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002541,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002542,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002543,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002544,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002545,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002546,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002547,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002548,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002549,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002550,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002551,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002552,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002553,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002554,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002555,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002556,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002557,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002558,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002559,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002560,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002561,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002562,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002563,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002564,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002565,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002566,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002567,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002568,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002569,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002570,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002571,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002572,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002573,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002574,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002575,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002576,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002577,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002578,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002579,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002580,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002581,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002582,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002583,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002584,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002585,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002586,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002587,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002588,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002589,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002590,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002591,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002592,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002593,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002594,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002595,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002596,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002597,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002598,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002599,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002600,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002601,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002602,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002603,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002604,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002605,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002606,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002607,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002608,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002609,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002610,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002611,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002612,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002613,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002614,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002615,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002616,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002617,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002618,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002619,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002620,2004 - grid bgc.pdf,0,train,87,1674
+PURE_002621,2004 - grid bgc.pdf,1,train,87,1674
+PURE_002622,2004 - grid bgc.pdf,1,train,87,1674
+PURE_003416,2005 - microcare.pdf,0,train,87,1674
+PURE_003417,2005 - microcare.pdf,1,train,87,1674
+PURE_003418,2005 - microcare.pdf,1,train,87,1674
+PURE_003419,2005 - microcare.pdf,1,train,87,1674
+PURE_003420,2005 - microcare.pdf,0,train,87,1674
+PURE_003421,2005 - microcare.pdf,0,train,87,1674
+PURE_003422,2005 - microcare.pdf,1,train,87,1674
+PURE_003423,2005 - microcare.pdf,1,train,87,1674
+PURE_003424,2005 - microcare.pdf,0,train,87,1674
+PURE_003425,2005 - microcare.pdf,0,train,87,1674
+PURE_003426,2005 - microcare.pdf,1,train,87,1674
+PURE_003427,2005 - microcare.pdf,0,train,87,1674
+PURE_003428,2005 - microcare.pdf,0,train,87,1674
+PURE_003429,2005 - microcare.pdf,1,train,87,1674
+PURE_003430,2005 - microcare.pdf,0,train,87,1674
+PURE_003431,2005 - microcare.pdf,1,train,87,1674
+PURE_003432,2005 - microcare.pdf,1,train,87,1674
+PURE_003433,2005 - microcare.pdf,0,train,87,1674
+PURE_003434,2005 - microcare.pdf,1,train,87,1674
+PURE_003435,2005 - microcare.pdf,1,train,87,1674
+PURE_003436,2005 - microcare.pdf,1,train,87,1674
+PURE_003437,2005 - microcare.pdf,0,train,87,1674
+PURE_003438,2005 - microcare.pdf,1,train,87,1674
+PURE_003439,2005 - microcare.pdf,0,train,87,1674
+PURE_003440,2005 - microcare.pdf,1,train,87,1674
+PURE_003441,2005 - microcare.pdf,0,train,87,1674
+PURE_003442,2005 - microcare.pdf,1,train,87,1674
+PURE_003443,2005 - microcare.pdf,1,train,87,1674
+PURE_003444,2005 - microcare.pdf,0,train,87,1674
+PURE_003445,2005 - microcare.pdf,1,train,87,1674
+PURE_003446,2005 - microcare.pdf,1,train,87,1674
+PURE_003447,2005 - microcare.pdf,0,train,87,1674
+PURE_003448,2005 - microcare.pdf,1,train,87,1674
+PURE_003449,2005 - microcare.pdf,0,train,87,1674
+PURE_003450,2005 - microcare.pdf,1,train,87,1674
+PURE_003451,2005 - microcare.pdf,1,train,87,1674
+PURE_003452,2005 - microcare.pdf,1,train,87,1674
+PURE_003453,2005 - microcare.pdf,1,train,87,1674
+PURE_003454,2005 - microcare.pdf,0,train,87,1674
+PURE_003455,2005 - microcare.pdf,1,train,87,1674
+PURE_003456,2005 - microcare.pdf,1,train,87,1674
+PURE_003457,2005 - microcare.pdf,1,train,87,1674
+PURE_003458,2005 - microcare.pdf,1,train,87,1674
+PURE_003459,2005 - microcare.pdf,1,train,87,1674
+PURE_003460,2005 - microcare.pdf,1,train,87,1674
+PURE_003461,2005 - microcare.pdf,1,train,87,1674
+PURE_003462,2005 - microcare.pdf,0,train,87,1674
+PURE_003463,2005 - microcare.pdf,1,train,87,1674
+PURE_003464,2005 - microcare.pdf,1,train,87,1674
+PURE_003465,2005 - microcare.pdf,0,train,87,1674
+PURE_003466,2005 - microcare.pdf,1,train,87,1674
+PURE_003467,2005 - microcare.pdf,1,train,87,1674
+PURE_003468,2005 - microcare.pdf,1,train,87,1674
+PURE_003469,2005 - microcare.pdf,0,train,87,1674
+PURE_003470,2005 - microcare.pdf,1,train,87,1674
+PURE_003471,2005 - microcare.pdf,0,train,87,1674
+PURE_003472,2005 - microcare.pdf,1,train,87,1674
+PURE_003473,2005 - microcare.pdf,1,train,87,1674
+PURE_003474,2005 - microcare.pdf,1,train,87,1674
+PURE_003475,2005 - microcare.pdf,0,train,87,1674
+PURE_003476,2005 - microcare.pdf,1,train,87,1674
+PURE_003477,2005 - microcare.pdf,1,train,87,1674
+PURE_003478,2005 - microcare.pdf,1,train,87,1674
+PURE_003479,2005 - microcare.pdf,1,train,87,1674
+PURE_003480,2005 - microcare.pdf,1,train,87,1674
+PURE_003481,2005 - microcare.pdf,1,train,87,1674
+PURE_003482,2005 - microcare.pdf,1,train,87,1674
+PURE_003483,2005 - microcare.pdf,1,train,87,1674
+PURE_003484,2005 - microcare.pdf,1,train,87,1674
+PURE_003485,2005 - microcare.pdf,1,train,87,1674
+PURE_003486,2005 - microcare.pdf,1,train,87,1674
+PURE_003487,2005 - microcare.pdf,1,train,87,1674
+PURE_003488,2005 - microcare.pdf,1,train,87,1674
+PURE_003489,2005 - microcare.pdf,1,train,87,1674
+PURE_003490,2005 - microcare.pdf,1,train,87,1674
+PURE_003491,2005 - microcare.pdf,1,train,87,1674
+PURE_003492,2005 - microcare.pdf,1,train,87,1674
+PURE_003493,2005 - microcare.pdf,1,train,87,1674
+PURE_003494,2005 - microcare.pdf,1,train,87,1674
+PURE_003495,2005 - microcare.pdf,1,train,87,1674
+PURE_003496,2005 - microcare.pdf,1,train,87,1674
+PURE_003564,2005 - phin.pdf,1,train,87,1674
+PURE_003565,2005 - phin.pdf,1,train,87,1674
+PURE_003566,2005 - phin.pdf,1,train,87,1674
+PURE_003567,2005 - phin.pdf,1,train,87,1674
+PURE_003568,2005 - phin.pdf,1,train,87,1674
+PURE_003569,2005 - phin.pdf,1,train,87,1674
+PURE_003570,2005 - phin.pdf,1,train,87,1674
+PURE_003571,2005 - phin.pdf,1,train,87,1674
+PURE_003572,2005 - phin.pdf,0,train,87,1674
+PURE_003573,2005 - phin.pdf,1,train,87,1674
+PURE_003574,2005 - phin.pdf,1,train,87,1674
+PURE_003575,2005 - phin.pdf,1,train,87,1674
+PURE_003576,2005 - phin.pdf,0,train,87,1674
+PURE_003577,2005 - phin.pdf,0,train,87,1674
+PURE_003578,2005 - phin.pdf,1,train,87,1674
+PURE_003579,2005 - phin.pdf,0,train,87,1674
+PURE_003580,2005 - phin.pdf,1,train,87,1674
+PURE_003581,2005 - phin.pdf,1,train,87,1674
+PURE_003582,2005 - phin.pdf,1,train,87,1674
+PURE_003583,2005 - phin.pdf,1,train,87,1674
+PURE_003584,2005 - phin.pdf,1,train,87,1674
+PURE_003585,2005 - phin.pdf,0,train,87,1674
+PURE_003586,2005 - phin.pdf,0,train,87,1674
+PURE_003587,2005 - phin.pdf,0,train,87,1674
+PURE_003588,2005 - phin.pdf,0,train,87,1674
+PURE_003589,2005 - phin.pdf,1,train,87,1674
+PURE_003590,2005 - phin.pdf,1,train,87,1674
+PURE_003591,2005 - phin.pdf,0,train,87,1674
+PURE_003592,2005 - phin.pdf,0,train,87,1674
+PURE_003593,2005 - phin.pdf,0,train,87,1674
+PURE_003594,2005 - phin.pdf,0,train,87,1674
+PURE_003595,2005 - phin.pdf,0,train,87,1674
+PURE_003596,2005 - phin.pdf,1,train,87,1674
+PURE_003597,2005 - phin.pdf,1,train,87,1674
+PURE_003598,2005 - phin.pdf,1,train,87,1674
+PURE_003599,2005 - phin.pdf,1,train,87,1674
+PURE_003600,2005 - phin.pdf,1,train,87,1674
+PURE_003601,2005 - phin.pdf,1,train,87,1674
+PURE_003602,2005 - phin.pdf,1,train,87,1674
+PURE_003603,2005 - phin.pdf,0,train,87,1674
+PURE_003604,2005 - phin.pdf,1,train,87,1674
+PURE_003605,2005 - phin.pdf,1,train,87,1674
+PURE_003606,2005 - phin.pdf,0,train,87,1674
+PURE_003607,2005 - phin.pdf,0,train,87,1674
+PURE_003608,2005 - phin.pdf,1,train,87,1674
+PURE_003609,2005 - phin.pdf,0,train,87,1674
+PURE_003610,2005 - phin.pdf,1,train,87,1674
+PURE_003611,2005 - phin.pdf,0,train,87,1674
+PURE_003612,2005 - phin.pdf,1,train,87,1674
+PURE_003613,2005 - phin.pdf,0,train,87,1674
+PURE_003614,2005 - phin.pdf,0,train,87,1674
+PURE_003615,2005 - phin.pdf,0,train,87,1674
+PURE_003616,2005 - phin.pdf,0,train,87,1674
+PURE_003617,2005 - phin.pdf,1,train,87,1674
+PURE_003618,2005 - phin.pdf,1,train,87,1674
+PURE_003619,2005 - phin.pdf,1,train,87,1674
+PURE_003620,2005 - phin.pdf,0,train,87,1674
+PURE_003621,2005 - phin.pdf,0,train,87,1674
+PURE_003622,2005 - phin.pdf,0,train,87,1674
+PURE_003623,2005 - phin.pdf,1,train,87,1674
+PURE_003624,2005 - phin.pdf,1,train,87,1674
+PURE_003625,2005 - phin.pdf,1,train,87,1674
+PURE_003626,2005 - phin.pdf,1,train,87,1674
+PURE_003627,2005 - phin.pdf,1,train,87,1674
+PURE_003628,2005 - phin.pdf,0,train,87,1674
+PURE_003629,2005 - phin.pdf,0,train,87,1674
+PURE_003630,2005 - phin.pdf,0,train,87,1674
+PURE_003631,2005 - phin.pdf,1,train,87,1674
+PURE_003632,2005 - phin.pdf,0,train,87,1674
+PURE_003633,2005 - phin.pdf,0,train,87,1674
+PURE_003634,2005 - phin.pdf,0,train,87,1674
+PURE_003635,2005 - phin.pdf,0,train,87,1674
+PURE_003636,2005 - phin.pdf,0,train,87,1674
+PURE_003637,2005 - phin.pdf,1,train,87,1674
+PURE_003638,2005 - phin.pdf,1,train,87,1674
+PURE_003639,2005 - phin.pdf,1,train,87,1674
+PURE_003640,2005 - phin.pdf,1,train,87,1674
+PURE_003641,2005 - phin.pdf,0,train,87,1674
+PURE_003642,2005 - phin.pdf,1,train,87,1674
+PURE_003643,2005 - phin.pdf,0,train,87,1674
+PURE_003644,2005 - phin.pdf,0,train,87,1674
+PURE_003645,2005 - phin.pdf,1,train,87,1674
+PURE_003646,2005 - phin.pdf,1,train,87,1674
+PURE_003647,2005 - phin.pdf,1,train,87,1674
+PURE_003648,2005 - phin.pdf,0,train,87,1674
+PURE_003649,2005 - phin.pdf,0,train,87,1674
+PURE_003650,2005 - phin.pdf,0,train,87,1674
+PURE_003651,2005 - phin.pdf,0,train,87,1674
+PURE_003652,2005 - phin.pdf,0,train,87,1674
+PURE_003653,2005 - phin.pdf,0,train,87,1674
+PURE_003654,2005 - phin.pdf,1,train,87,1674
+PURE_003655,2005 - phin.pdf,1,train,87,1674
+PURE_003656,2005 - phin.pdf,1,train,87,1674
+PURE_003657,2005 - phin.pdf,1,train,87,1674
+PURE_003658,2005 - phin.pdf,1,train,87,1674
+PURE_003659,2005 - phin.pdf,1,train,87,1674
+PURE_003660,2005 - phin.pdf,1,train,87,1674
+PURE_003661,2005 - phin.pdf,1,train,87,1674
+PURE_003662,2005 - phin.pdf,1,train,87,1674
+PURE_003663,2005 - phin.pdf,1,train,87,1674
+PURE_003664,2005 - phin.pdf,1,train,87,1674
+PURE_003665,2005 - phin.pdf,0,train,87,1674
+PURE_003666,2005 - phin.pdf,0,train,87,1674
+PURE_003667,2005 - phin.pdf,1,train,87,1674
+PURE_003668,2005 - phin.pdf,1,train,87,1674
+PURE_003669,2005 - phin.pdf,1,train,87,1674
+PURE_003670,2005 - phin.pdf,0,train,87,1674
+PURE_003671,2005 - phin.pdf,1,train,87,1674
+PURE_003672,2005 - phin.pdf,1,train,87,1674
+PURE_003673,2005 - phin.pdf,0,train,87,1674
+PURE_003674,2005 - phin.pdf,1,train,87,1674
+PURE_003675,2005 - phin.pdf,1,train,87,1674
+PURE_003676,2005 - phin.pdf,0,train,87,1674
+PURE_003677,2005 - phin.pdf,1,train,87,1674
+PURE_003678,2005 - phin.pdf,1,train,87,1674
+PURE_003679,2005 - phin.pdf,0,train,87,1674
+PURE_003680,2005 - phin.pdf,0,train,87,1674
+PURE_003681,2005 - phin.pdf,0,train,87,1674
+PURE_003682,2005 - phin.pdf,0,train,87,1674
+PURE_003683,2005 - phin.pdf,1,train,87,1674
+PURE_003684,2005 - phin.pdf,0,train,87,1674
+PURE_003685,2005 - phin.pdf,1,train,87,1674
+PURE_003686,2005 - phin.pdf,0,train,87,1674
+PURE_003687,2005 - phin.pdf,1,train,87,1674
+PURE_003688,2005 - phin.pdf,1,train,87,1674
+PURE_003689,2005 - phin.pdf,1,train,87,1674
+PURE_003690,2005 - phin.pdf,1,train,87,1674
+PURE_003691,2005 - phin.pdf,1,train,87,1674
+PURE_003692,2005 - phin.pdf,1,train,87,1674
+PURE_003693,2005 - phin.pdf,1,train,87,1674
+PURE_003694,2005 - phin.pdf,1,train,87,1674
+PURE_003695,2005 - phin.pdf,1,train,87,1674
+PURE_003696,2005 - phin.pdf,1,train,87,1674
+PURE_003697,2005 - phin.pdf,1,train,87,1674
+PURE_003698,2005 - phin.pdf,1,train,87,1674
+PURE_003699,2005 - phin.pdf,1,train,87,1674
+PURE_003700,2005 - phin.pdf,1,train,87,1674
+PURE_003701,2005 - phin.pdf,1,train,87,1674
+PURE_003702,2005 - pontis.pdf,0,train,87,1674
+PURE_003703,2005 - pontis.pdf,1,train,87,1674
+PURE_003704,2005 - pontis.pdf,1,train,87,1674
+PURE_003705,2005 - pontis.pdf,0,train,87,1674
+PURE_003706,2005 - pontis.pdf,0,train,87,1674
+PURE_003707,2005 - pontis.pdf,0,train,87,1674
+PURE_003708,2005 - pontis.pdf,1,train,87,1674
+PURE_003709,2005 - pontis.pdf,0,train,87,1674
+PURE_003710,2005 - pontis.pdf,1,train,87,1674
+PURE_003711,2005 - pontis.pdf,1,train,87,1674
+PURE_003712,2005 - pontis.pdf,0,train,87,1674
+PURE_003713,2005 - pontis.pdf,0,train,87,1674
+PURE_003714,2005 - pontis.pdf,1,train,87,1674
+PURE_003715,2005 - pontis.pdf,1,train,87,1674
+PURE_003716,2005 - pontis.pdf,1,train,87,1674
+PURE_003717,2005 - pontis.pdf,1,train,87,1674
+PURE_003718,2005 - pontis.pdf,1,train,87,1674
+PURE_003719,2005 - pontis.pdf,1,train,87,1674
+PURE_003720,2005 - pontis.pdf,1,train,87,1674
+PURE_003721,2005 - pontis.pdf,0,train,87,1674
+PURE_003722,2005 - pontis.pdf,1,train,87,1674
+PURE_003723,2005 - pontis.pdf,1,train,87,1674
+PURE_003724,2005 - pontis.pdf,0,train,87,1674
+PURE_003725,2005 - pontis.pdf,1,train,87,1674
+PURE_003726,2005 - pontis.pdf,0,train,87,1674
+PURE_003727,2005 - pontis.pdf,0,train,87,1674
+PURE_003728,2005 - pontis.pdf,1,train,87,1674
+PURE_003729,2005 - pontis.pdf,0,train,87,1674
+PURE_003730,2005 - pontis.pdf,1,train,87,1674
+PURE_003731,2005 - pontis.pdf,1,train,87,1674
+PURE_003732,2005 - pontis.pdf,0,train,87,1674
+PURE_003733,2005 - pontis.pdf,0,train,87,1674
+PURE_003734,2005 - pontis.pdf,0,train,87,1674
+PURE_003735,2005 - pontis.pdf,1,train,87,1674
+PURE_003736,2005 - pontis.pdf,1,train,87,1674
+PURE_003737,2005 - pontis.pdf,1,train,87,1674
+PURE_003738,2005 - pontis.pdf,1,train,87,1674
+PURE_003739,2005 - pontis.pdf,0,train,87,1674
+PURE_003740,2005 - pontis.pdf,1,train,87,1674
+PURE_003741,2005 - pontis.pdf,1,train,87,1674
+PURE_003742,2005 - pontis.pdf,1,train,87,1674
+PURE_003743,2005 - pontis.pdf,1,train,87,1674
+PURE_003744,2005 - pontis.pdf,0,train,87,1674
+PURE_003745,2005 - pontis.pdf,0,train,87,1674
+PURE_003746,2005 - pontis.pdf,0,train,87,1674
+PURE_003747,2005 - pontis.pdf,0,train,87,1674
+PURE_003748,2005 - pontis.pdf,1,train,87,1674
+PURE_003749,2005 - pontis.pdf,1,train,87,1674
+PURE_003750,2005 - pontis.pdf,1,train,87,1674
+PURE_003751,2005 - pontis.pdf,1,train,87,1674
+PURE_003752,2005 - pontis.pdf,1,train,87,1674
+PURE_003753,2005 - pontis.pdf,1,train,87,1674
+PURE_003754,2005 - pontis.pdf,1,train,87,1674
+PURE_003755,2005 - pontis.pdf,1,train,87,1674
+PURE_003756,2005 - pontis.pdf,0,train,87,1674
+PURE_003757,2005 - pontis.pdf,0,train,87,1674
+PURE_003758,2005 - pontis.pdf,0,train,87,1674
+PURE_003759,2005 - pontis.pdf,1,train,87,1674
+PURE_003760,2005 - pontis.pdf,0,train,87,1674
+PURE_003761,2005 - pontis.pdf,0,train,87,1674
+PURE_003762,2005 - pontis.pdf,0,train,87,1674
+PURE_003763,2005 - pontis.pdf,0,train,87,1674
+PURE_003764,2005 - pontis.pdf,0,train,87,1674
+PURE_003765,2005 - pontis.pdf,0,train,87,1674
+PURE_003766,2005 - pontis.pdf,1,train,87,1674
+PURE_003767,2005 - pontis.pdf,1,train,87,1674
+PURE_003768,2005 - pontis.pdf,0,train,87,1674
+PURE_003769,2005 - pontis.pdf,1,train,87,1674
+PURE_003770,2005 - pontis.pdf,0,train,87,1674
+PURE_003771,2005 - pontis.pdf,0,train,87,1674
+PURE_003772,2005 - pontis.pdf,0,train,87,1674
+PURE_003773,2005 - pontis.pdf,0,train,87,1674
+PURE_003774,2005 - pontis.pdf,0,train,87,1674
+PURE_003775,2005 - pontis.pdf,0,train,87,1674
+PURE_003776,2005 - pontis.pdf,0,train,87,1674
+PURE_003777,2005 - pontis.pdf,0,train,87,1674
+PURE_003778,2005 - pontis.pdf,1,train,87,1674
+PURE_003779,2005 - pontis.pdf,0,train,87,1674
+PURE_003780,2005 - pontis.pdf,0,train,87,1674
+PURE_003781,2005 - pontis.pdf,0,train,87,1674
+PURE_003782,2005 - pontis.pdf,1,train,87,1674
+PURE_003783,2005 - pontis.pdf,1,train,87,1674
+PURE_003784,2005 - pontis.pdf,0,train,87,1674
+PURE_003785,2005 - pontis.pdf,0,train,87,1674
+PURE_003786,2005 - pontis.pdf,1,train,87,1674
+PURE_003787,2005 - pontis.pdf,0,train,87,1674
+PURE_003788,2005 - pontis.pdf,0,train,87,1674
+PURE_003789,2005 - pontis.pdf,0,train,87,1674
+PURE_003790,2005 - pontis.pdf,0,train,87,1674
+PURE_003791,2005 - pontis.pdf,0,train,87,1674
+PURE_003792,2005 - pontis.pdf,1,train,87,1674
+PURE_003793,2005 - pontis.pdf,1,train,87,1674
+PURE_003794,2005 - pontis.pdf,0,train,87,1674
+PURE_003795,2005 - pontis.pdf,0,train,87,1674
+PURE_003796,2005 - pontis.pdf,0,train,87,1674
+PURE_003797,2005 - pontis.pdf,0,train,87,1674
+PURE_003798,2005 - pontis.pdf,0,train,87,1674
+PURE_003799,2005 - pontis.pdf,0,train,87,1674
+PURE_003800,2005 - pontis.pdf,0,train,87,1674
+PURE_003801,2005 - pontis.pdf,0,train,87,1674
+PURE_003802,2005 - pontis.pdf,1,train,87,1674
+PURE_003803,2005 - pontis.pdf,0,train,87,1674
+PURE_003804,2005 - pontis.pdf,0,train,87,1674
+PURE_003805,2005 - pontis.pdf,1,train,87,1674
+PURE_003806,2005 - pontis.pdf,0,train,87,1674
+PURE_003807,2005 - pontis.pdf,0,train,87,1674
+PURE_003808,2005 - pontis.pdf,0,train,87,1674
+PURE_003809,2005 - pontis.pdf,0,train,87,1674
+PURE_003810,2005 - pontis.pdf,0,train,87,1674
+PURE_003811,2005 - pontis.pdf,1,train,87,1674
+PURE_003812,2005 - pontis.pdf,0,train,87,1674
+PURE_003813,2005 - pontis.pdf,0,train,87,1674
+PURE_003814,2005 - pontis.pdf,1,train,87,1674
+PURE_003815,2005 - pontis.pdf,1,train,87,1674
+PURE_003816,2005 - pontis.pdf,1,train,87,1674
+PURE_003817,2005 - pontis.pdf,0,train,87,1674
+PURE_003818,2005 - pontis.pdf,0,train,87,1674
+PURE_003819,2005 - pontis.pdf,0,train,87,1674
+PURE_003820,2005 - pontis.pdf,0,train,87,1674
+PURE_003821,2005 - pontis.pdf,0,train,87,1674
+PURE_003822,2005 - pontis.pdf,0,train,87,1674
+PURE_003823,2005 - pontis.pdf,0,train,87,1674
+PURE_003824,2005 - pontis.pdf,0,train,87,1674
+PURE_003825,2005 - pontis.pdf,0,train,87,1674
+PURE_003826,2005 - pontis.pdf,0,train,87,1674
+PURE_003827,2005 - pontis.pdf,0,train,87,1674
+PURE_003828,2005 - pontis.pdf,0,train,87,1674
+PURE_003829,2005 - pontis.pdf,0,train,87,1674
+PURE_003830,2005 - pontis.pdf,0,train,87,1674
+PURE_003831,2005 - pontis.pdf,1,train,87,1674
+PURE_003832,2005 - pontis.pdf,1,train,87,1674
+PURE_003833,2005 - pontis.pdf,0,train,87,1674
+PURE_003834,2005 - pontis.pdf,0,train,87,1674
+PURE_003835,2005 - pontis.pdf,0,train,87,1674
+PURE_003836,2005 - pontis.pdf,0,train,87,1674
+PURE_003837,2005 - pontis.pdf,0,train,87,1674
+PURE_003838,2005 - pontis.pdf,0,train,87,1674
+PURE_003839,2005 - pontis.pdf,0,train,87,1674
+PURE_003840,2005 - pontis.pdf,0,train,87,1674
+PURE_003841,2005 - pontis.pdf,1,train,87,1674
+PURE_003842,2005 - pontis.pdf,0,train,87,1674
+PURE_003843,2005 - pontis.pdf,0,train,87,1674
+PURE_003844,2005 - pontis.pdf,0,train,87,1674
+PURE_003845,2005 - pontis.pdf,0,train,87,1674
+PURE_003846,2005 - pontis.pdf,0,train,87,1674
+PURE_003847,2005 - pontis.pdf,0,train,87,1674
+PURE_003848,2005 - pontis.pdf,0,train,87,1674
+PURE_003849,2005 - pontis.pdf,1,train,87,1674
+PURE_003850,2005 - pontis.pdf,0,train,87,1674
+PURE_003851,2005 - pontis.pdf,0,train,87,1674
+PURE_003852,2005 - pontis.pdf,0,train,87,1674
+PURE_003853,2005 - pontis.pdf,0,train,87,1674
+PURE_003854,2005 - pontis.pdf,0,train,87,1674
+PURE_003855,2005 - pontis.pdf,0,train,87,1674
+PURE_003856,2005 - pontis.pdf,0,train,87,1674
+PURE_003857,2005 - pontis.pdf,0,train,87,1674
+PURE_003858,2005 - pontis.pdf,0,train,87,1674
+PURE_003859,2005 - pontis.pdf,0,train,87,1674
+PURE_003860,2005 - pontis.pdf,1,train,87,1674
+PURE_003861,2005 - pontis.pdf,0,train,87,1674
+PURE_003862,2005 - pontis.pdf,0,train,87,1674
+PURE_003863,2005 - pontis.pdf,0,train,87,1674
+PURE_003864,2005 - pontis.pdf,1,train,87,1674
+PURE_003865,2005 - pontis.pdf,1,train,87,1674
+PURE_003866,2005 - pontis.pdf,0,train,87,1674
+PURE_003867,2005 - pontis.pdf,0,train,87,1674
+PURE_003868,2005 - pontis.pdf,0,train,87,1674
+PURE_003869,2005 - pontis.pdf,0,train,87,1674
+PURE_003870,2005 - pontis.pdf,0,train,87,1674
+PURE_003871,2005 - pontis.pdf,0,train,87,1674
+PURE_003872,2005 - pontis.pdf,0,train,87,1674
+PURE_003873,2005 - pontis.pdf,0,train,87,1674
+PURE_003874,2005 - pontis.pdf,0,train,87,1674
+PURE_003875,2005 - pontis.pdf,0,train,87,1674
+PURE_003876,2005 - pontis.pdf,0,train,87,1674
+PURE_003877,2005 - pontis.pdf,0,train,87,1674
+PURE_003878,2005 - pontis.pdf,0,train,87,1674
+PURE_003879,2005 - pontis.pdf,0,train,87,1674
+PURE_003880,2005 - pontis.pdf,0,train,87,1674
+PURE_003881,2005 - pontis.pdf,0,train,87,1674
+PURE_003882,2005 - pontis.pdf,0,train,87,1674
+PURE_003883,2005 - pontis.pdf,0,train,87,1674
+PURE_003884,2005 - pontis.pdf,0,train,87,1674
+PURE_003885,2005 - pontis.pdf,0,train,87,1674
+PURE_003886,2005 - pontis.pdf,0,train,87,1674
+PURE_003887,2005 - pontis.pdf,0,train,87,1674
+PURE_003888,2005 - pontis.pdf,0,train,87,1674
+PURE_003889,2005 - pontis.pdf,0,train,87,1674
+PURE_003890,2005 - pontis.pdf,0,train,87,1674
+PURE_003891,2005 - pontis.pdf,1,train,87,1674
+PURE_003892,2005 - pontis.pdf,1,train,87,1674
+PURE_003893,2005 - pontis.pdf,0,train,87,1674
+PURE_003894,2005 - pontis.pdf,0,train,87,1674
+PURE_003895,2005 - pontis.pdf,0,train,87,1674
+PURE_003896,2005 - pontis.pdf,0,train,87,1674
+PURE_003897,2005 - pontis.pdf,1,train,87,1674
+PURE_003898,2005 - pontis.pdf,0,train,87,1674
+PURE_003899,2005 - pontis.pdf,0,train,87,1674
+PURE_003900,2005 - pontis.pdf,1,train,87,1674
+PURE_003901,2005 - pontis.pdf,0,train,87,1674
+PURE_003902,2005 - pontis.pdf,0,train,87,1674
+PURE_003903,2005 - pontis.pdf,0,train,87,1674
+PURE_003904,2005 - pontis.pdf,0,train,87,1674
+PURE_003905,2005 - pontis.pdf,1,train,87,1674
+PURE_003906,2005 - pontis.pdf,0,train,87,1674
+PURE_003907,2005 - pontis.pdf,0,train,87,1674
+PURE_003908,2005 - pontis.pdf,0,train,87,1674
+PURE_003909,2005 - pontis.pdf,0,train,87,1674
+PURE_003910,2005 - pontis.pdf,1,train,87,1674
+PURE_003911,2005 - pontis.pdf,1,train,87,1674
+PURE_003912,2005 - pontis.pdf,0,train,87,1674
+PURE_003913,2005 - pontis.pdf,0,train,87,1674
+PURE_003914,2005 - pontis.pdf,0,train,87,1674
+PURE_003915,2005 - pontis.pdf,0,train,87,1674
+PURE_003916,2005 - pontis.pdf,1,train,87,1674
+PURE_003917,2005 - pontis.pdf,0,train,87,1674
+PURE_003918,2005 - pontis.pdf,0,train,87,1674
+PURE_003919,2005 - pontis.pdf,0,train,87,1674
+PURE_003920,2005 - pontis.pdf,0,train,87,1674
+PURE_003921,2005 - pontis.pdf,0,train,87,1674
+PURE_003922,2005 - pontis.pdf,1,train,87,1674
+PURE_003923,2005 - pontis.pdf,0,train,87,1674
+PURE_003924,2005 - pontis.pdf,1,train,87,1674
+PURE_003925,2005 - pontis.pdf,1,train,87,1674
+PURE_003926,2005 - pontis.pdf,1,train,87,1674
+PURE_003927,2005 - pontis.pdf,1,train,87,1674
+PURE_003928,2005 - pontis.pdf,0,train,87,1674
+PURE_003929,2005 - pontis.pdf,0,train,87,1674
+PURE_003930,2005 - pontis.pdf,0,train,87,1674
+PURE_003931,2005 - pontis.pdf,1,train,87,1674
+PURE_003932,2005 - pontis.pdf,0,train,87,1674
+PURE_003933,2005 - pontis.pdf,0,train,87,1674
+PURE_003934,2005 - pontis.pdf,1,train,87,1674
+PURE_003935,2005 - pontis.pdf,1,train,87,1674
+PURE_003936,2005 - pontis.pdf,1,train,87,1674
+PURE_003937,2005 - pontis.pdf,0,train,87,1674
+PURE_003938,2005 - pontis.pdf,1,train,87,1674
+PURE_003939,2005 - pontis.pdf,0,train,87,1674
+PURE_003940,2005 - pontis.pdf,1,train,87,1674
+PURE_003941,2005 - pontis.pdf,1,train,87,1674
+PURE_003942,2005 - pontis.pdf,1,train,87,1674
+PURE_003943,2005 - pontis.pdf,1,train,87,1674
+PURE_003944,2005 - pontis.pdf,1,train,87,1674
+PURE_003945,2005 - pontis.pdf,0,train,87,1674
+PURE_003946,2005 - pontis.pdf,1,train,87,1674
+PURE_003947,2005 - pontis.pdf,1,train,87,1674
+PURE_003948,2005 - pontis.pdf,1,train,87,1674
+PURE_003949,2005 - pontis.pdf,1,train,87,1674
+PURE_003950,2005 - pontis.pdf,1,train,87,1674
+PURE_003951,2005 - pontis.pdf,0,train,87,1674
+PURE_004608,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004609,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004610,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004611,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004612,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004613,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004614,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004615,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004616,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004617,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004618,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004619,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004620,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004621,2007 - get real 0.2.pdf,1,train,87,1674
+PURE_004622,2007 - get real 0.2.pdf,0,train,87,1674
+PURE_004819,2007 - nde.pdf,1,train,87,1674
+PURE_004820,2007 - nde.pdf,0,train,87,1674
+PURE_004821,2007 - nde.pdf,1,train,87,1674
+PURE_004822,2007 - nde.pdf,1,train,87,1674
+PURE_004823,2007 - nde.pdf,1,train,87,1674
+PURE_004824,2007 - nde.pdf,0,train,87,1674
+PURE_004825,2007 - nde.pdf,1,train,87,1674
+PURE_004826,2007 - nde.pdf,0,train,87,1674
+PURE_004827,2007 - nde.pdf,0,train,87,1674
+PURE_004828,2007 - nde.pdf,0,train,87,1674
+PURE_004829,2007 - nde.pdf,0,train,87,1674
+PURE_004830,2007 - nde.pdf,1,train,87,1674
+PURE_004831,2007 - nde.pdf,0,train,87,1674
+PURE_004832,2007 - nde.pdf,0,train,87,1674
+PURE_004833,2007 - nde.pdf,0,train,87,1674
+PURE_004834,2007 - nde.pdf,0,train,87,1674
+PURE_004835,2007 - nde.pdf,0,train,87,1674
+PURE_004836,2007 - nde.pdf,0,train,87,1674
+PURE_004837,2007 - nde.pdf,0,train,87,1674
+PURE_004838,2007 - nde.pdf,0,train,87,1674
+PURE_004839,2007 - nde.pdf,0,train,87,1674
+PURE_004840,2007 - nde.pdf,0,train,87,1674
+PURE_004841,2007 - nde.pdf,0,train,87,1674
+PURE_004842,2007 - nde.pdf,0,train,87,1674
+PURE_004843,2007 - nde.pdf,0,train,87,1674
+PURE_004844,2007 - nde.pdf,0,train,87,1674
+PURE_004845,2007 - nde.pdf,0,train,87,1674
+PURE_004846,2007 - nde.pdf,0,train,87,1674
+PURE_004847,2007 - nde.pdf,0,train,87,1674
+PURE_004848,2007 - nde.pdf,0,train,87,1674
+PURE_004849,2007 - nde.pdf,0,train,87,1674
+PURE_004850,2007 - nde.pdf,0,train,87,1674
+PURE_004851,2007 - nde.pdf,0,train,87,1674
+PURE_004852,2007 - nde.pdf,0,train,87,1674
+PURE_004853,2007 - nde.pdf,0,train,87,1674
+PURE_004854,2007 - nde.pdf,0,train,87,1674
+PURE_004855,2007 - nde.pdf,0,train,87,1674
+PURE_004856,2007 - nde.pdf,0,train,87,1674
+PURE_004857,2007 - nde.pdf,0,train,87,1674
+PURE_004858,2007 - nde.pdf,0,train,87,1674
+PURE_004859,2007 - nde.pdf,0,train,87,1674
+PURE_004860,2007 - nde.pdf,0,train,87,1674
+PURE_004861,2007 - nde.pdf,0,train,87,1674
+PURE_004862,2007 - nde.pdf,0,train,87,1674
+PURE_004863,2007 - nde.pdf,0,train,87,1674
+PURE_004864,2007 - nde.pdf,0,train,87,1674
+PURE_004865,2007 - nde.pdf,0,train,87,1674
+PURE_004866,2007 - nde.pdf,0,train,87,1674
+PURE_004867,2007 - nde.pdf,0,train,87,1674
+PURE_004868,2007 - nde.pdf,0,train,87,1674
+PURE_004869,2007 - nde.pdf,0,train,87,1674
+PURE_004870,2007 - nde.pdf,1,train,87,1674
+PURE_004871,2007 - nde.pdf,0,train,87,1674
+PURE_004872,2007 - nde.pdf,1,train,87,1674
+PURE_004873,2007 - nde.pdf,0,train,87,1674
+PURE_004874,2007 - nde.pdf,0,train,87,1674
+PURE_004875,2007 - nde.pdf,0,train,87,1674
+PURE_004876,2007 - nde.pdf,0,train,87,1674
+PURE_004877,2007 - nde.pdf,0,train,87,1674
+PURE_004878,2007 - nde.pdf,0,train,87,1674
+PURE_004879,2007 - nde.pdf,0,train,87,1674
+PURE_004880,2007 - nde.pdf,0,train,87,1674
+PURE_004881,2007 - nde.pdf,0,train,87,1674
+PURE_004882,2007 - nde.pdf,1,train,87,1674
+PURE_004883,2007 - nde.pdf,0,train,87,1674
+PURE_004884,2007 - nde.pdf,0,train,87,1674
+PURE_004885,2007 - nde.pdf,0,train,87,1674
+PURE_004886,2007 - nde.pdf,0,train,87,1674
+PURE_004887,2007 - nde.pdf,0,train,87,1674
+PURE_004888,2007 - nde.pdf,0,train,87,1674
+PURE_004889,2007 - nde.pdf,0,train,87,1674
+PURE_004890,2007 - nde.pdf,0,train,87,1674
+PURE_004891,2007 - nde.pdf,0,train,87,1674
+PURE_004892,2007 - nde.pdf,0,train,87,1674
+PURE_004893,2007 - nde.pdf,0,train,87,1674
+PURE_004894,2007 - nde.pdf,0,train,87,1674
+PURE_004895,2007 - nde.pdf,0,train,87,1674
+PURE_004896,2007 - nde.pdf,0,train,87,1674
+PURE_004897,2007 - nde.pdf,0,train,87,1674
+PURE_004898,2007 - nde.pdf,0,train,87,1674
+PURE_004899,2007 - nde.pdf,1,train,87,1674
+PURE_004900,2007 - nde.pdf,0,train,87,1674
+PURE_004901,2007 - nde.pdf,0,train,87,1674
+PURE_004902,2007 - nde.pdf,1,train,87,1674
+PURE_004903,2007 - nde.pdf,0,train,87,1674
+PURE_004904,2007 - nde.pdf,0,train,87,1674
+PURE_004905,2007 - nde.pdf,0,train,87,1674
+PURE_004906,2007 - nde.pdf,0,train,87,1674
+PURE_004907,2007 - nde.pdf,0,train,87,1674
+PURE_004908,2007 - nde.pdf,1,train,87,1674
+PURE_004909,2007 - nde.pdf,0,train,87,1674
+PURE_004910,2007 - nde.pdf,0,train,87,1674
+PURE_004911,2007 - nde.pdf,0,train,87,1674
+PURE_004912,2007 - nde.pdf,0,train,87,1674
+PURE_004913,2007 - nde.pdf,0,train,87,1674
+PURE_004914,2007 - nde.pdf,1,train,87,1674
+PURE_004915,2007 - nde.pdf,0,train,87,1674
+PURE_004916,2007 - nde.pdf,1,train,87,1674
+PURE_004917,2007 - nde.pdf,0,train,87,1674
+PURE_004918,2007 - nde.pdf,0,train,87,1674
+PURE_004919,2007 - nde.pdf,1,train,87,1674
+PURE_004920,2007 - nde.pdf,0,train,87,1674
+PURE_004921,2007 - nde.pdf,0,train,87,1674
+PURE_004922,2007 - nde.pdf,0,train,87,1674
+PURE_004923,2007 - nde.pdf,0,train,87,1674
+PURE_004924,2007 - nde.pdf,0,train,87,1674
+PURE_004925,2007 - nde.pdf,0,train,87,1674
+PURE_004926,2007 - nde.pdf,0,train,87,1674
+PURE_004927,2007 - nde.pdf,0,train,87,1674
+PURE_004928,2007 - nde.pdf,0,train,87,1674
+PURE_004929,2007 - nde.pdf,0,train,87,1674
+PURE_004930,2007 - nde.pdf,0,train,87,1674
+PURE_004931,2007 - nde.pdf,0,train,87,1674
+PURE_004932,2007 - nde.pdf,0,train,87,1674
+PURE_004933,2007 - nde.pdf,0,train,87,1674
+PURE_004934,2007 - nde.pdf,0,train,87,1674
+PURE_004935,2007 - nde.pdf,0,train,87,1674
+PURE_004936,2007 - nde.pdf,0,train,87,1674
+PURE_004937,2007 - nde.pdf,1,train,87,1674
+PURE_004938,2007 - nde.pdf,1,train,87,1674
+PURE_004939,2007 - nde.pdf,1,train,87,1674
+PURE_004940,2007 - nde.pdf,1,train,87,1674
+PURE_004941,2007 - nde.pdf,0,train,87,1674
+PURE_004942,2007 - nde.pdf,0,train,87,1674
+PURE_004943,2007 - nde.pdf,1,train,87,1674
+PURE_004944,2007 - nde.pdf,1,train,87,1674
+PURE_004945,2007 - nde.pdf,0,train,87,1674
+PURE_004946,2007 - nde.pdf,0,train,87,1674
+PURE_004947,2007 - nde.pdf,1,train,87,1674
+PURE_004948,2007 - nde.pdf,0,train,87,1674
+PURE_004949,2007 - nde.pdf,0,train,87,1674
+PURE_004950,2007 - nde.pdf,1,train,87,1674
+PURE_004951,2007 - nde.pdf,1,train,87,1674
+PURE_004952,2007 - nde.pdf,0,train,87,1674
+PURE_004953,2007 - nde.pdf,1,train,87,1674
+PURE_004954,2007 - nde.pdf,1,train,87,1674
+PURE_004955,2007 - nde.pdf,0,train,87,1674
+PURE_004956,2007 - nde.pdf,1,train,87,1674
+PURE_004957,2007 - nde.pdf,0,train,87,1674
+PURE_004958,2007 - nde.pdf,0,train,87,1674
+PURE_004959,2007 - nde.pdf,0,train,87,1674
+PURE_004960,2007 - nde.pdf,1,train,87,1674
+PURE_004961,2007 - nde.pdf,0,train,87,1674
+PURE_004962,2007 - nde.pdf,1,train,87,1674
+PURE_004963,2007 - nde.pdf,0,train,87,1674
+PURE_004964,2007 - nde.pdf,0,train,87,1674
+PURE_004965,2007 - nde.pdf,1,train,87,1674
+PURE_004966,2007 - nde.pdf,1,train,87,1674
+PURE_004967,2007 - nde.pdf,1,train,87,1674
+PURE_004968,2007 - nde.pdf,0,train,87,1674
+PURE_004969,2007 - nde.pdf,0,train,87,1674
+PURE_004970,2007 - nde.pdf,0,train,87,1674
+PURE_004971,2007 - nde.pdf,0,train,87,1674
+PURE_004972,2007 - nde.pdf,0,train,87,1674
+PURE_004973,2007 - nde.pdf,0,train,87,1674
+PURE_004974,2007 - nde.pdf,0,train,87,1674
+PURE_004975,2007 - nde.pdf,1,train,87,1674
+PURE_004976,2007 - nde.pdf,1,train,87,1674
+PURE_004977,2007 - nde.pdf,1,train,87,1674
+PURE_004978,2007 - nde.pdf,1,train,87,1674
+PURE_004979,2007 - nde.pdf,0,train,87,1674
+PURE_004980,2007 - nde.pdf,0,train,87,1674
+PURE_004981,2007 - nde.pdf,0,train,87,1674
+PURE_004982,2007 - nde.pdf,0,train,87,1674
+PURE_004983,2007 - nde.pdf,0,train,87,1674
+PURE_004984,2007 - puget sound.pdf,1,train,87,1674
+PURE_004985,2007 - puget sound.pdf,1,train,87,1674
+PURE_004986,2007 - puget sound.pdf,1,train,87,1674
+PURE_004987,2007 - puget sound.pdf,0,train,87,1674
+PURE_004988,2007 - puget sound.pdf,1,train,87,1674
+PURE_004989,2007 - puget sound.pdf,1,train,87,1674
+PURE_004990,2007 - puget sound.pdf,0,train,87,1674
+PURE_004991,2007 - puget sound.pdf,0,train,87,1674
+PURE_004992,2007 - puget sound.pdf,0,train,87,1674
+PURE_004993,2007 - puget sound.pdf,1,train,87,1674
+PURE_004994,2007 - puget sound.pdf,1,train,87,1674
+PURE_004995,2007 - puget sound.pdf,1,train,87,1674
+PURE_004996,2007 - puget sound.pdf,0,train,87,1674
+PURE_004997,2007 - puget sound.pdf,0,train,87,1674
+PURE_004998,2007 - puget sound.pdf,1,train,87,1674
+PURE_004999,2007 - puget sound.pdf,0,train,87,1674
+PURE_005000,2007 - puget sound.pdf,1,train,87,1674
+PURE_005001,2007 - puget sound.pdf,1,train,87,1674
+PURE_005002,2007 - puget sound.pdf,1,train,87,1674
+PURE_005003,2007 - puget sound.pdf,0,train,87,1674
+PURE_005004,2007 - puget sound.pdf,1,train,87,1674
+PURE_005005,2007 - puget sound.pdf,1,train,87,1674
+PURE_005006,2007 - puget sound.pdf,1,train,87,1674
+PURE_005007,2007 - puget sound.pdf,1,train,87,1674
+PURE_005008,2007 - puget sound.pdf,1,train,87,1674
+PURE_005009,2007 - puget sound.pdf,1,train,87,1674
+PURE_005010,2007 - puget sound.pdf,1,train,87,1674
+PURE_005011,2007 - puget sound.pdf,1,train,87,1674
+PURE_005012,2007 - puget sound.pdf,1,train,87,1674
+PURE_005013,2007 - puget sound.pdf,1,train,87,1674
+PURE_005014,2007 - puget sound.pdf,1,train,87,1674
+PURE_005015,2007 - puget sound.pdf,1,train,87,1674
+PURE_005016,2007 - puget sound.pdf,1,train,87,1674
+PURE_005017,2007 - puget sound.pdf,1,train,87,1674
+PURE_005018,2007 - puget sound.pdf,1,train,87,1674
+PURE_005019,2007 - puget sound.pdf,0,train,87,1674
+PURE_005020,2007 - puget sound.pdf,1,train,87,1674
+PURE_005021,2007 - puget sound.pdf,1,train,87,1674
+PURE_005022,2007 - puget sound.pdf,1,train,87,1674
+PURE_005023,2007 - puget sound.pdf,1,train,87,1674
+PURE_005024,2007 - puget sound.pdf,1,train,87,1674
+PURE_005025,2007 - puget sound.pdf,1,train,87,1674
+PURE_005026,2007 - puget sound.pdf,1,train,87,1674
+PURE_005027,2007 - puget sound.pdf,1,train,87,1674
+PURE_005028,2007 - puget sound.pdf,1,train,87,1674
+PURE_005029,2007 - puget sound.pdf,0,train,87,1674
+PURE_005030,2007 - puget sound.pdf,0,train,87,1674
+PURE_005031,2007 - puget sound.pdf,1,train,87,1674
+PURE_005032,2007 - puget sound.pdf,1,train,87,1674
+PURE_005033,2007 - puget sound.pdf,1,train,87,1674
+PURE_005034,2007 - puget sound.pdf,1,train,87,1674
+PURE_005035,2007 - puget sound.pdf,1,train,87,1674
+PURE_005036,2007 - puget sound.pdf,1,train,87,1674
+PURE_005037,2007 - puget sound.pdf,1,train,87,1674
+PURE_005038,2007 - puget sound.pdf,0,train,87,1674
+PURE_005039,2007 - puget sound.pdf,1,train,87,1674
+PURE_005040,2007 - puget sound.pdf,1,train,87,1674
+PURE_005041,2007 - puget sound.pdf,1,train,87,1674
+PURE_005042,2007 - puget sound.pdf,1,train,87,1674
+PURE_005043,2007 - puget sound.pdf,0,train,87,1674
+PURE_005044,2007 - puget sound.pdf,1,train,87,1674
+PURE_005045,2007 - puget sound.pdf,1,train,87,1674
+PURE_005046,2007 - puget sound.pdf,1,train,87,1674
+PURE_005047,2007 - puget sound.pdf,1,train,87,1674
+PURE_005048,2007 - puget sound.pdf,1,train,87,1674
+PURE_005049,2007 - puget sound.pdf,1,train,87,1674
+PURE_005050,2007 - puget sound.pdf,1,train,87,1674
+PURE_005051,2007 - puget sound.pdf,1,train,87,1674
+PURE_005052,2007 - puget sound.pdf,1,train,87,1674
+PURE_005053,2007 - puget sound.pdf,1,train,87,1674
+PURE_005054,2007 - puget sound.pdf,1,train,87,1674
+PURE_005055,2007 - puget sound.pdf,0,train,87,1674
+PURE_005056,2007 - puget sound.pdf,1,train,87,1674
+PURE_005057,2007 - puget sound.pdf,1,train,87,1674
+PURE_005058,2007 - puget sound.pdf,0,train,87,1674
+PURE_005059,2007 - puget sound.pdf,1,train,87,1674
+PURE_005060,2007 - puget sound.pdf,1,train,87,1674
+PURE_005061,2007 - puget sound.pdf,1,train,87,1674
+PURE_005062,2007 - puget sound.pdf,1,train,87,1674
+PURE_005063,2007 - puget sound.pdf,1,train,87,1674
+PURE_005064,2007 - puget sound.pdf,1,train,87,1674
+PURE_005065,2007 - puget sound.pdf,1,train,87,1674
+PURE_005066,2007 - puget sound.pdf,1,train,87,1674
+PURE_005067,2007 - puget sound.pdf,0,train,87,1674
+PURE_005068,2007 - puget sound.pdf,1,train,87,1674
+PURE_005069,2007 - puget sound.pdf,0,train,87,1674
+PURE_005070,2007 - puget sound.pdf,0,train,87,1674
+PURE_005071,2007 - puget sound.pdf,1,train,87,1674
+PURE_005072,2007 - puget sound.pdf,1,train,87,1674
+PURE_005073,2007 - puget sound.pdf,0,train,87,1674
+PURE_005074,2007 - puget sound.pdf,1,train,87,1674
+PURE_005075,2007 - puget sound.pdf,1,train,87,1674
+PURE_005076,2007 - puget sound.pdf,1,train,87,1674
+PURE_005077,2007 - puget sound.pdf,1,train,87,1674
+PURE_005078,2007 - puget sound.pdf,1,train,87,1674
+PURE_005079,2007 - puget sound.pdf,0,train,87,1674
+PURE_005080,2007 - puget sound.pdf,0,train,87,1674
+PURE_005081,2007 - puget sound.pdf,0,train,87,1674
+PURE_005082,2007 - puget sound.pdf,1,train,87,1674
+PURE_005083,2007 - puget sound.pdf,1,train,87,1674
+PURE_005084,2007 - puget sound.pdf,1,train,87,1674
+PURE_005085,2007 - puget sound.pdf,1,train,87,1674
+PURE_005086,2007 - puget sound.pdf,1,train,87,1674
+PURE_005087,2007 - puget sound.pdf,1,train,87,1674
+PURE_005088,2007 - puget sound.pdf,0,train,87,1674
+PURE_005089,2007 - puget sound.pdf,1,train,87,1674
+PURE_005090,2007 - puget sound.pdf,1,train,87,1674
+PURE_005091,2007 - puget sound.pdf,0,train,87,1674
+PURE_005092,2007 - water use.pdf,0,train,87,1674
+PURE_005093,2007 - water use.pdf,0,train,87,1674
+PURE_005094,2007 - water use.pdf,0,train,87,1674
+PURE_005095,2007 - water use.pdf,0,train,87,1674
+PURE_005096,2007 - water use.pdf,1,train,87,1674
+PURE_005097,2007 - water use.pdf,0,train,87,1674
+PURE_005098,2007 - water use.pdf,1,train,87,1674
+PURE_005099,2007 - water use.pdf,0,train,87,1674
+PURE_005100,2007 - water use.pdf,0,train,87,1674
+PURE_005101,2007 - water use.pdf,0,train,87,1674
+PURE_005102,2007 - water use.pdf,0,train,87,1674
+PURE_005103,2007 - water use.pdf,1,train,87,1674
+PURE_005104,2007 - water use.pdf,1,train,87,1674
+PURE_005105,2007 - water use.pdf,0,train,87,1674
+PURE_005106,2007 - water use.pdf,0,train,87,1674
+PURE_005107,2007 - water use.pdf,1,train,87,1674
+PURE_005108,2007 - water use.pdf,1,train,87,1674
+PURE_005109,2007 - water use.pdf,0,train,87,1674
+PURE_005110,2007 - water use.pdf,1,train,87,1674
+PURE_005111,2007 - water use.pdf,1,train,87,1674
+PURE_005112,2007 - water use.pdf,1,train,87,1674
+PURE_005113,2007 - water use.pdf,1,train,87,1674
+PURE_005114,2007 - water use.pdf,0,train,87,1674
+PURE_005115,2007 - water use.pdf,1,train,87,1674
+PURE_005116,2007 - water use.pdf,0,train,87,1674
+PURE_005117,2007 - water use.pdf,1,train,87,1674
+PURE_005118,2007 - water use.pdf,1,train,87,1674
+PURE_005119,2007 - water use.pdf,0,train,87,1674
+PURE_005120,2007 - water use.pdf,1,train,87,1674
+PURE_005121,2007 - water use.pdf,1,train,87,1674
+PURE_005122,2007 - water use.pdf,0,train,87,1674
+PURE_005123,2007 - water use.pdf,0,train,87,1674
+PURE_005124,2007 - water use.pdf,1,train,87,1674
+PURE_005125,2007 - water use.pdf,1,train,87,1674
+PURE_005126,2007 - water use.pdf,0,train,87,1674
+PURE_005127,2007 - water use.pdf,0,train,87,1674
+PURE_005128,2007 - water use.pdf,0,train,87,1674
+PURE_005129,2007 - water use.pdf,1,train,87,1674
+PURE_005130,2007 - water use.pdf,1,train,87,1674
+PURE_005131,2007 - water use.pdf,0,train,87,1674
+PURE_005132,2007 - water use.pdf,0,train,87,1674
+PURE_005133,2007 - water use.pdf,0,train,87,1674
+PURE_005134,2007 - water use.pdf,0,train,87,1674
+PURE_005135,2007 - water use.pdf,0,train,87,1674
+PURE_005136,2007 - water use.pdf,0,train,87,1674
+PURE_005137,2007 - water use.pdf,0,train,87,1674
+PURE_005138,2007 - water use.pdf,1,train,87,1674
+PURE_005139,2007 - water use.pdf,0,train,87,1674
+PURE_005140,2007 - water use.pdf,1,train,87,1674
+PURE_005141,2007 - water use.pdf,1,train,87,1674
+PURE_005142,2007 - water use.pdf,1,train,87,1674
+PURE_005143,2007 - water use.pdf,1,train,87,1674
+PURE_005144,2007 - water use.pdf,1,train,87,1674
+PURE_005145,2007 - water use.pdf,1,train,87,1674
+PURE_005146,2007 - water use.pdf,1,train,87,1674
+PURE_005147,2007 - water use.pdf,0,train,87,1674
+PURE_005148,2007 - water use.pdf,1,train,87,1674
+PURE_005149,2007 - water use.pdf,1,train,87,1674
+PURE_005150,2007 - water use.pdf,1,train,87,1674
+PURE_005151,2007 - water use.pdf,0,train,87,1674
+PURE_005152,2007 - water use.pdf,1,train,87,1674
+PURE_005153,2007 - water use.pdf,0,train,87,1674
+PURE_005154,2007 - water use.pdf,1,train,87,1674
+PURE_005155,2007 - water use.pdf,0,train,87,1674
+PURE_005156,2007 - water use.pdf,0,train,87,1674
+PURE_005157,2007 - water use.pdf,0,train,87,1674
+PURE_005158,2007 - water use.pdf,0,train,87,1674
+PURE_005159,2007 - water use.pdf,0,train,87,1674
+PURE_005160,2007 - water use.pdf,1,train,87,1674
+PURE_005161,2007 - water use.pdf,0,train,87,1674
+PURE_005162,2007 - water use.pdf,0,train,87,1674
+PURE_005163,2007 - water use.pdf,0,train,87,1674
+PURE_005164,2007 - water use.pdf,1,train,87,1674
+PURE_005165,2007 - water use.pdf,0,train,87,1674
+PURE_005166,2007 - water use.pdf,1,train,87,1674
+PURE_005167,2007 - water use.pdf,0,train,87,1674
+PURE_005168,2007 - water use.pdf,1,train,87,1674
+PURE_005169,2007 - water use.pdf,1,train,87,1674
+PURE_005170,2007 - water use.pdf,1,train,87,1674
+PURE_005171,2007 - water use.pdf,1,train,87,1674
+PURE_005172,2007 - water use.pdf,0,train,87,1674
+PURE_005173,2007 - water use.pdf,1,train,87,1674
+PURE_005174,2007 - water use.pdf,0,train,87,1674
+PURE_005175,2007 - water use.pdf,0,train,87,1674
+PURE_005176,2007 - water use.pdf,0,train,87,1674
+PURE_005177,2007 - water use.pdf,0,train,87,1674
+PURE_005178,2007 - water use.pdf,1,train,87,1674
+PURE_005179,2007 - water use.pdf,0,train,87,1674
+PURE_005180,2007 - water use.pdf,1,train,87,1674
+PURE_005181,2007 - water use.pdf,0,train,87,1674
+PURE_005182,2007 - water use.pdf,1,train,87,1674
+PURE_005183,2007 - water use.pdf,0,train,87,1674
+PURE_005184,2007 - water use.pdf,0,train,87,1674
+PURE_005185,2007 - water use.pdf,0,train,87,1674
+PURE_005186,2007 - water use.pdf,0,train,87,1674
+PURE_005187,2007 - water use.pdf,0,train,87,1674
+PURE_005188,2007 - water use.pdf,0,train,87,1674
+PURE_005189,2007 - water use.pdf,1,train,87,1674
+PURE_005190,2007 - water use.pdf,1,train,87,1674
+PURE_005191,2007 - water use.pdf,1,train,87,1674
+PURE_005192,2007 - water use.pdf,1,train,87,1674
+PURE_005193,2007 - water use.pdf,1,train,87,1674
+PURE_005194,2007 - water use.pdf,0,train,87,1674
+PURE_005195,2007 - water use.pdf,0,train,87,1674
+PURE_005196,2007 - water use.pdf,0,train,87,1674
+PURE_005197,2007 - water use.pdf,0,train,87,1674
+PURE_005198,2007 - water use.pdf,1,train,87,1674
+PURE_005199,2007 - water use.pdf,1,train,87,1674
+PURE_005200,2007 - water use.pdf,0,train,87,1674
+PURE_005201,2007 - water use.pdf,0,train,87,1674
+PURE_005202,2007 - water use.pdf,0,train,87,1674
+PURE_005203,2007 - water use.pdf,1,train,87,1674
+PURE_005227,2008 - keepass.pdf,1,train,87,1674
+PURE_005228,2008 - keepass.pdf,0,train,87,1674
+PURE_005229,2008 - keepass.pdf,0,train,87,1674
+PURE_005230,2008 - keepass.pdf,1,train,87,1674
+PURE_005231,2008 - keepass.pdf,1,train,87,1674
+PURE_005232,2008 - keepass.pdf,1,train,87,1674
+PURE_005233,2008 - keepass.pdf,1,train,87,1674
+PURE_005234,2008 - keepass.pdf,1,train,87,1674
+PURE_005235,2008 - keepass.pdf,1,train,87,1674
+PURE_005236,2008 - keepass.pdf,1,train,87,1674
+PURE_005237,2008 - keepass.pdf,1,train,87,1674
+PURE_005238,2008 - keepass.pdf,1,train,87,1674
+PURE_005239,2008 - keepass.pdf,1,train,87,1674
+PURE_005240,2008 - keepass.pdf,1,train,87,1674
+PURE_005241,2008 - keepass.pdf,0,train,87,1674
+PURE_005242,2008 - keepass.pdf,1,train,87,1674
+PURE_005243,2008 - keepass.pdf,1,train,87,1674
+PURE_005244,2008 - keepass.pdf,1,train,87,1674
+PURE_005245,2008 - keepass.pdf,1,train,87,1674
+PURE_005246,2008 - keepass.pdf,1,train,87,1674
+PURE_005247,2008 - keepass.pdf,1,train,87,1674
+PURE_005248,2008 - keepass.pdf,0,train,87,1674
+PURE_005249,2008 - keepass.pdf,0,train,87,1674
+PURE_005250,2008 - keepass.pdf,1,train,87,1674
+PURE_005251,2008 - keepass.pdf,1,train,87,1674
+PURE_005252,2008 - keepass.pdf,1,train,87,1674
+PURE_005253,2008 - keepass.pdf,1,train,87,1674
+PURE_005254,2008 - keepass.pdf,1,train,87,1674
+PURE_005255,2008 - keepass.pdf,1,train,87,1674
+PURE_005256,2008 - keepass.pdf,0,train,87,1674
+PURE_005257,2008 - keepass.pdf,0,train,87,1674
+PURE_005258,2008 - keepass.pdf,1,train,87,1674
+PURE_005259,2008 - keepass.pdf,1,train,87,1674
+PURE_005260,2008 - keepass.pdf,1,train,87,1674
+PURE_005261,2008 - keepass.pdf,0,train,87,1674
+PURE_005262,2008 - keepass.pdf,1,train,87,1674
+PURE_005263,2008 - keepass.pdf,0,train,87,1674
+PURE_005264,2008 - keepass.pdf,0,train,87,1674
+PURE_005265,2008 - keepass.pdf,1,train,87,1674
+PURE_005266,2008 - keepass.pdf,0,train,87,1674
+PURE_005267,2008 - keepass.pdf,1,train,87,1674
+PURE_005268,2008 - keepass.pdf,0,train,87,1674
+PURE_005269,2008 - keepass.pdf,0,train,87,1674
+PURE_005270,2008 - keepass.pdf,1,train,87,1674
+PURE_005271,2008 - keepass.pdf,1,train,87,1674
+PURE_005272,2008 - keepass.pdf,0,train,87,1674
+PURE_005273,2008 - keepass.pdf,1,train,87,1674
+PURE_005274,2008 - keepass.pdf,1,train,87,1674
+PURE_005275,2008 - keepass.pdf,0,train,87,1674
+PURE_005276,2008 - keepass.pdf,0,train,87,1674
+PURE_005277,2008 - keepass.pdf,1,train,87,1674
+PURE_005278,2008 - keepass.pdf,1,train,87,1674
+PURE_005279,2008 - keepass.pdf,1,train,87,1674
+PURE_005280,2008 - keepass.pdf,0,train,87,1674
+PURE_005281,2008 - keepass.pdf,0,train,87,1674
+PURE_005282,2008 - keepass.pdf,1,train,87,1674
+PURE_005283,2008 - keepass.pdf,1,train,87,1674
+PURE_005284,2008 - keepass.pdf,0,train,87,1674
+PURE_005285,2008 - keepass.pdf,1,train,87,1674
+PURE_005286,2008 - keepass.pdf,0,train,87,1674
+PURE_005287,2008 - keepass.pdf,1,train,87,1674
+PURE_005288,2008 - keepass.pdf,1,train,87,1674
+PURE_005289,2008 - keepass.pdf,0,train,87,1674
+PURE_005290,2008 - keepass.pdf,1,train,87,1674
+PURE_005291,2008 - keepass.pdf,0,train,87,1674
+PURE_005292,2008 - keepass.pdf,0,train,87,1674
+PURE_005293,2008 - keepass.pdf,1,train,87,1674
+PURE_005294,2008 - keepass.pdf,1,train,87,1674
+PURE_005295,2008 - keepass.pdf,1,train,87,1674
+PURE_005296,2008 - keepass.pdf,1,train,87,1674
+PURE_005297,2008 - keepass.pdf,0,train,87,1674
+PURE_005403,2009 - email.pdf,1,train,87,1674
+PURE_005404,2009 - email.pdf,0,train,87,1674
+PURE_005405,2009 - email.pdf,0,train,87,1674
+PURE_005406,2009 - email.pdf,0,train,87,1674
+PURE_005407,2009 - email.pdf,1,train,87,1674
+PURE_005408,2009 - email.pdf,0,train,87,1674
+PURE_005409,2009 - email.pdf,1,train,87,1674
+PURE_005410,2009 - email.pdf,1,train,87,1674
+PURE_005411,2009 - email.pdf,1,train,87,1674
+PURE_005412,2009 - email.pdf,0,train,87,1674
+PURE_005413,2009 - email.pdf,1,train,87,1674
+PURE_005414,2009 - email.pdf,1,train,87,1674
+PURE_005415,2009 - email.pdf,1,train,87,1674
+PURE_005416,2009 - email.pdf,1,train,87,1674
+PURE_005417,2009 - email.pdf,1,train,87,1674
+PURE_005418,2009 - email.pdf,1,train,87,1674
+PURE_005419,2009 - email.pdf,1,train,87,1674
+PURE_005420,2009 - email.pdf,1,train,87,1674
+PURE_005421,2009 - email.pdf,1,train,87,1674
+PURE_005422,2009 - email.pdf,1,train,87,1674
+PURE_005423,2009 - email.pdf,1,train,87,1674
+PURE_005424,2009 - gaia.pdf,1,train,87,1674
+PURE_005425,2009 - gaia.pdf,0,train,87,1674
+PURE_005426,2009 - gaia.pdf,0,train,87,1674
+PURE_005427,2009 - gaia.pdf,1,train,87,1674
+PURE_005428,2009 - gaia.pdf,0,train,87,1674
+PURE_005429,2009 - gaia.pdf,1,train,87,1674
+PURE_005430,2009 - gaia.pdf,0,train,87,1674
+PURE_005431,2009 - gaia.pdf,1,train,87,1674
+PURE_005432,2009 - gaia.pdf,0,train,87,1674
+PURE_005433,2009 - gaia.pdf,1,train,87,1674
+PURE_005434,2009 - gaia.pdf,1,train,87,1674
+PURE_005435,2009 - gaia.pdf,0,train,87,1674
+PURE_005436,2009 - gaia.pdf,1,train,87,1674
+PURE_005437,2009 - gaia.pdf,0,train,87,1674
+PURE_005438,2009 - gaia.pdf,1,train,87,1674
+PURE_005439,2009 - gaia.pdf,0,train,87,1674
+PURE_005440,2009 - gaia.pdf,1,train,87,1674
+PURE_005441,2009 - gaia.pdf,1,train,87,1674
+PURE_005442,2009 - gaia.pdf,0,train,87,1674
+PURE_005443,2009 - gaia.pdf,0,train,87,1674
+PURE_005444,2009 - gaia.pdf,0,train,87,1674
+PURE_005445,2009 - gaia.pdf,0,train,87,1674
+PURE_005446,2009 - gaia.pdf,0,train,87,1674
+PURE_005447,2009 - gaia.pdf,1,train,87,1674
+PURE_005448,2009 - gaia.pdf,1,train,87,1674
+PURE_005449,2009 - gaia.pdf,1,train,87,1674
+PURE_005450,2009 - gaia.pdf,1,train,87,1674
+PURE_006069,2009 - warc III.pdf,0,train,87,1674
+PURE_006070,2009 - warc III.pdf,0,train,87,1674
+PURE_006071,2009 - warc III.pdf,1,train,87,1674
+PURE_006072,2009 - warc III.pdf,0,train,87,1674
+PURE_006073,2009 - warc III.pdf,0,train,87,1674
+PURE_006074,2009 - warc III.pdf,1,train,87,1674
+PURE_006075,2009 - warc III.pdf,1,train,87,1674
+PURE_006076,2009 - warc III.pdf,1,train,87,1674
+PURE_006077,2009 - warc III.pdf,0,train,87,1674
+PURE_006078,2009 - warc III.pdf,1,train,87,1674
+PURE_006079,2009 - warc III.pdf,0,train,87,1674
+PURE_006080,2009 - warc III.pdf,0,train,87,1674
+PURE_006081,2009 - warc III.pdf,1,train,87,1674
+PURE_006082,2009 - warc III.pdf,1,train,87,1674
+PURE_006083,2009 - warc III.pdf,1,train,87,1674
+PURE_006084,2009 - warc III.pdf,1,train,87,1674
+PURE_006085,2009 - warc III.pdf,1,train,87,1674
+PURE_006086,2009 - warc III.pdf,1,train,87,1674
+PURE_006087,2009 - warc III.pdf,1,train,87,1674
+PURE_006088,2009 - warc III.pdf,0,train,87,1674
+PURE_006089,2009 - warc III.pdf,0,train,87,1674
+PURE_006090,2009 - warc III.pdf,0,train,87,1674
+PURE_006091,2009 - warc III.pdf,1,train,87,1674
+PURE_006092,2009 - warc III.pdf,1,train,87,1674
+PURE_006093,2009 - warc III.pdf,1,train,87,1674
+PURE_006094,2009 - warc III.pdf,1,train,87,1674
+PURE_006095,2009 - warc III.pdf,1,train,87,1674
+PURE_006096,2009 - warc III.pdf,0,train,87,1674
+PURE_006097,2009 - warc III.pdf,0,train,87,1674
+PURE_006098,2009 - warc III.pdf,0,train,87,1674
+PURE_006099,2009 - warc III.pdf,1,train,87,1674
+PURE_006100,2009 - warc III.pdf,0,train,87,1674
+PURE_006101,2009 - warc III.pdf,0,train,87,1674
+PURE_006102,2009 - warc III.pdf,0,train,87,1674
+PURE_006103,2009 - warc III.pdf,0,train,87,1674
+PURE_006104,2009 - warc III.pdf,0,train,87,1674
+PURE_006105,2009 - warc III.pdf,0,train,87,1674
+PURE_006106,2009 - warc III.pdf,0,train,87,1674
+PURE_006107,2009 - warc III.pdf,0,train,87,1674
+PURE_006108,2009 - warc III.pdf,0,train,87,1674
+PURE_006109,2009 - warc III.pdf,0,train,87,1674
+PURE_006110,2009 - warc III.pdf,1,train,87,1674
+PURE_006111,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006112,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006113,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006114,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006115,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006116,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006117,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006118,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006119,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006120,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006121,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006122,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006123,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006124,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006125,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006126,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006127,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006128,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006129,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006130,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006131,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006132,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006133,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006134,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006135,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006136,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006137,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006138,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006139,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006140,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006141,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006142,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006143,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006144,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006145,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006146,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006147,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006148,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006149,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006150,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006151,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006152,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006153,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006154,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006155,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006156,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006157,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006158,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006159,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006160,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006161,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006162,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006163,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006164,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006165,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006166,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006167,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006168,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006169,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006170,2010 - blit draft.pdf,0,validation,87,1674
+PURE_006171,2010 - blit draft.pdf,1,validation,87,1674
+PURE_006406,2010 - mashboot.pdf,1,train,87,1674
+PURE_006407,2010 - mashboot.pdf,0,train,87,1674
+PURE_006408,2010 - mashboot.pdf,1,train,87,1674
+PURE_006409,2010 - mashboot.pdf,0,train,87,1674
+PURE_006410,2010 - mashboot.pdf,1,train,87,1674
+PURE_006411,2010 - mashboot.pdf,1,train,87,1674
+PURE_006412,2010 - mashboot.pdf,1,train,87,1674
+PURE_006413,2010 - mashboot.pdf,0,train,87,1674
+PURE_006414,2010 - mashboot.pdf,1,train,87,1674
+PURE_006415,2010 - mashboot.pdf,1,train,87,1674
+PURE_006416,2010 - mashboot.pdf,1,train,87,1674
+PURE_006417,2010 - mashboot.pdf,1,train,87,1674
+PURE_006418,2010 - mashboot.pdf,1,train,87,1674
+PURE_006419,2010 - mashboot.pdf,1,train,87,1674
+PURE_006420,2010 - mashboot.pdf,1,train,87,1674
+PURE_006421,2010 - mashboot.pdf,1,train,87,1674
+PURE_006422,2010 - mashboot.pdf,1,train,87,1674
+PURE_006423,2010 - mashboot.pdf,1,train,87,1674
+PURE_006424,2010 - mashboot.pdf,1,train,87,1674
+PURE_006425,2010 - mashboot.pdf,1,train,87,1674
+PURE_006426,2010 - mashboot.pdf,0,train,87,1674
+PURE_006427,2010 - mashboot.pdf,1,train,87,1674
+PURE_006428,2010 - mashboot.pdf,1,train,87,1674
+PURE_006429,2010 - mashboot.pdf,1,train,87,1674
+PURE_006430,2010 - mashboot.pdf,1,train,87,1674
+PURE_006431,2010 - mashboot.pdf,1,train,87,1674
+PURE_006432,2010 - mashboot.pdf,1,train,87,1674
+PURE_006433,2010 - mashboot.pdf,1,train,87,1674
+PURE_006434,2010 - mashboot.pdf,1,train,87,1674
+PURE_006435,2010 - mashboot.pdf,1,train,87,1674
+PURE_006436,2010 - mashboot.pdf,1,train,87,1674
+PURE_006437,2010 - mashboot.pdf,1,train,87,1674
+PURE_006438,2010 - mashboot.pdf,1,train,87,1674
+PURE_006439,2010 - mashboot.pdf,1,train,87,1674
+PURE_006440,2010 - mashboot.pdf,1,train,87,1674
+PURE_006441,2010 - mashboot.pdf,1,train,87,1674
+PURE_006442,2010 - mashboot.pdf,1,train,87,1674
+PURE_006443,2010 - mashboot.pdf,1,train,87,1674
+PURE_006444,2010 - mashboot.pdf,1,train,87,1674
+PURE_006445,2010 - mashboot.pdf,1,train,87,1674
+PURE_006446,2010 - mashboot.pdf,1,train,87,1674
+PURE_006447,2010 - mashboot.pdf,1,train,87,1674
+PURE_006448,2010 - mashboot.pdf,1,train,87,1674
+PURE_006449,2010 - mashboot.pdf,1,train,87,1674
+PURE_006450,2010 - mashboot.pdf,1,train,87,1674
+PURE_006451,2010 - mashboot.pdf,1,train,87,1674
+PURE_006452,2010 - mashboot.pdf,1,train,87,1674
+PURE_006453,2010 - mashboot.pdf,1,train,87,1674
+PURE_006454,2010 - mashboot.pdf,1,train,87,1674
+PURE_006455,2010 - mashboot.pdf,1,train,87,1674
+PURE_006456,2010 - mashboot.pdf,1,train,87,1674
+PURE_006457,2010 - mashboot.pdf,1,train,87,1674
+PURE_006458,2010 - mashboot.pdf,1,train,87,1674
+PURE_006459,2010 - mashboot.pdf,1,train,87,1674
+PURE_006460,2010 - mashboot.pdf,1,train,87,1674
+PURE_006461,2010 - mashboot.pdf,1,train,87,1674
+PURE_006462,2010 - mashboot.pdf,1,train,87,1674
+PURE_006463,2010 - mashboot.pdf,1,train,87,1674
+PURE_006464,2010 - mashboot.pdf,1,train,87,1674
+PURE_006465,2010 - mashboot.pdf,1,train,87,1674
+PURE_006466,2010 - mashboot.pdf,1,train,87,1674
+PURE_006467,2010 - mashboot.pdf,1,train,87,1674
+PURE_006468,2010 - mashboot.pdf,1,train,87,1674
+PURE_006469,2010 - mashboot.pdf,1,train,87,1674
+PURE_006470,2010 - mashboot.pdf,1,train,87,1674

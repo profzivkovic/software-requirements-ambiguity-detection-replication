@@ -21,6 +21,7 @@ from transformers import (
 from src.config import (
     INTRA_SPLITS_DIR,
     CROSS_SPLITS_DIR,
+    TRANSFORMER_SIZE_MATCHED_SPLITS_DIR,
     INSTANCE_ID_COL,
     SOURCE_COL,
     TEXT_COL,
@@ -653,7 +654,158 @@ def load_cross_partitions(
         test=test_df,
     )
 
+# ============================================================
+# Size-matched cross-dataset partitions
+# ============================================================
 
+def load_matched_cross_partitions(
+    pure_df: pd.DataFrame,
+    target_df: pd.DataFrame,
+    seed: int,
+) -> TransformerPartitions:
+    """
+    Load the source-size-controlled PURE -> UserStories
+    transformer partition.
+
+    The matched PURE subset was selected previously using
+    complete source groups so that its total size is
+    approximately equal to the UserStories corpus.
+
+    Within that matched PURE subset:
+
+        ~90% source-disjoint train
+        ~10% source-disjoint validation
+
+    The complete UserStories corpus is used as the external
+    test set.
+
+    Target-corpus labels are never used for training,
+    validation, early stopping, or checkpoint selection.
+    """
+
+    _validate_required_columns(
+        pure_df,
+        "PURE",
+    )
+
+    _validate_required_columns(
+        target_df,
+        "UserStories",
+    )
+
+    manifest_path = (
+        TRANSFORMER_SIZE_MATCHED_SPLITS_DIR
+        / f"PURE_matched_source_seed{seed}.csv"
+    )
+
+    if not manifest_path.exists():
+        raise FileNotFoundError(
+            f"Missing transformer size-matched manifest: "
+            f"{manifest_path}"
+        )
+
+    manifest = pd.read_csv(
+        manifest_path
+    )
+
+    _validate_manifest(
+        manifest,
+        str(manifest_path),
+    )
+
+    allowed_splits = {
+        "train",
+        "validation",
+    }
+
+    observed_splits = set(
+        manifest["split"].astype(str)
+    )
+
+    if observed_splits != allowed_splits:
+        raise AssertionError(
+            f"Seed {seed}: unexpected matched split labels: "
+            f"{sorted(observed_splits)}"
+        )
+
+    split_info = manifest[
+        [
+            INSTANCE_ID_COL,
+            "split",
+        ]
+    ].copy()
+
+    matched_source = pure_df.merge(
+        split_info,
+        on=INSTANCE_ID_COL,
+        how="inner",
+        validate="one_to_one",
+        sort=False,
+    )
+
+    if len(matched_source) != len(manifest):
+        raise AssertionError(
+            f"Seed {seed}: matched transformer manifest "
+            "does not correspond to the expected PURE subset."
+        )
+
+    train_df = (
+        matched_source[
+            matched_source["split"] == "train"
+        ]
+        .drop(columns=["split"])
+        .reset_index(drop=True)
+    )
+
+    validation_df = (
+        matched_source[
+            matched_source["split"] == "validation"
+        ]
+        .drop(columns=["split"])
+        .reset_index(drop=True)
+    )
+
+    test_df = (
+        target_df
+        .copy()
+        .reset_index(drop=True)
+    )
+
+    if train_df.empty:
+        raise AssertionError(
+            "Matched training partition is empty."
+        )
+
+    if validation_df.empty:
+        raise AssertionError(
+            "Matched validation partition is empty."
+        )
+
+    if test_df.empty:
+        raise AssertionError(
+            "Matched cross-corpus test set is empty."
+        )
+
+    _validate_cross_source_disjoint(
+        train_df,
+        validation_df,
+    )
+
+    if (
+        len(train_df)
+        + len(validation_df)
+        != len(manifest)
+    ):
+        raise AssertionError(
+            "Matched train + validation sizes do not "
+            "equal the matched source subset."
+        )
+
+    return TransformerPartitions(
+        train=train_df,
+        validation=validation_df,
+        test=test_df,
+    )
 # ============================================================
 # Partition summaries
 # ============================================================
