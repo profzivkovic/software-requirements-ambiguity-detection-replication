@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Large reproducible instance-level predictions
+results/raw/*_predictions.csv
+
+# Hugging Face / transformer artifacts
+checkpoints/
+models/
+wandb/
+runs/
+
+# Temporary files
+*.tmp
+*.bak
+*.log

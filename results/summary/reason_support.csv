@@ -1,0 +1,15 @@
+dataset,reason,support
+PURE,weak_modal,2008
+PURE,vague_term,1330
+PURE,missing_actor,449
+PURE,multiple_actions,307
+PURE,undefined_quantity,174
+PURE,undefined_term,130
+PURE,vague_condition,22
+PURE,incomplete,4
+UserStories,weak_modal,788
+UserStories,vague_term,246
+UserStories,undefined_quantity,50
+UserStories,undefined_term,31
+UserStories,multiple_actions,26
+UserStories,vague_condition,2
