@@ -32,3 +32,6 @@ runs/
 *.tmp
 *.bak
 *.log
+
+# Per-run transformer artifacts
+results/raw/transformer_runs/
