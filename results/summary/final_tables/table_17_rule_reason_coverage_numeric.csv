@@ -1,0 +1,15 @@
+﻿dataset,reason,support,detected_by_rule,missed_by_rule,detection_recall
+PURE,weak_modal,1963,1483,480,0.7554763117677025
+PURE,vague_term,1297,530,767,0.4086353122590593
+PURE,missing_actor,418,187,231,0.4473684210526316
+PURE,multiple_actions,303,58,245,0.1914191419141914
+PURE,undefined_quantity,171,168,3,0.9824561403508772
+PURE,undefined_term,130,32,98,0.2461538461538461
+PURE,vague_condition,22,21,1,0.9545454545454546
+PURE,incomplete,4,0,4,0.0
+UserStories,weak_modal,785,190,595,0.2420382165605095
+UserStories,vague_term,244,102,142,0.4180327868852459
+UserStories,undefined_quantity,50,47,3,0.94
+UserStories,undefined_term,31,11,20,0.3548387096774194
+UserStories,multiple_actions,26,2,24,0.0769230769230769
+UserStories,vague_condition,2,2,0,1.0

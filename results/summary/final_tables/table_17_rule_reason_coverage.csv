@@ -1,0 +1,15 @@
+﻿Dataset,Reason,Support N,Detected by rule,Missed by rule,Detection recall
+PURE,weak modal,1963,1483,480,0.755
+PURE,vague term,1297,530,767,0.409
+PURE,missing actor,418,187,231,0.447
+PURE,multiple actions,303,58,245,0.191
+PURE,undefined quantity,171,168,3,0.982
+PURE,undefined term,130,32,98,0.246
+PURE,vague condition,22,21,1,0.955
+PURE,incomplete,4,0,4,0.000
+UserStories,weak modal,785,190,595,0.242
+UserStories,vague term,244,102,142,0.418
+UserStories,undefined quantity,50,47,3,0.940
+UserStories,undefined term,31,11,20,0.355
+UserStories,multiple actions,26,2,24,0.077
+UserStories,vague condition,2,2,0,1.000

@@ -1,0 +1,21 @@
+﻿Family,Model,Source training regime,Training N,Accuracy,Precision,Recall,F1,MCC,Cohen's κ
+Classical,Naive Bayes,Full PURE source,6534 ± 0,0.566 ± 0.000,0.562 ± 0.000,1.000 ± 0.000,0.719 ± 0.000,0.113 ± 0.000,0.025 ± 0.000
+Classical,Naive Bayes,Size-matched PURE source,1673 ± 2,0.591 ± 0.015,0.577 ± 0.009,0.993 ± 0.005,0.730 ± 0.006,0.195 ± 0.039,0.089 ± 0.037
+Classical,Linear SVM,Full PURE source,6534 ± 0,0.726 ± 0.000,0.673 ± 0.000,0.989 ± 0.000,0.801 ± 0.000,0.497 ± 0.000,0.411 ± 0.000
+Classical,Linear SVM,Size-matched PURE source,1673 ± 2,0.614 ± 0.014,0.592 ± 0.009,0.988 ± 0.005,0.740 ± 0.006,0.257 ± 0.031,0.146 ± 0.034
+Classical,Random Forest,Full PURE source,6534 ± 0,0.628 ± 0.010,0.601 ± 0.007,0.986 ± 0.002,0.747 ± 0.005,0.292 ± 0.024,0.181 ± 0.025
+Classical,Random Forest,Size-matched PURE source,1673 ± 2,0.628 ± 0.036,0.604 ± 0.026,0.968 ± 0.021,0.743 ± 0.015,0.268 ± 0.080,0.183 ± 0.091
+Classical,LightGBM,Full PURE source,6534 ± 0,0.887 ± 0.005,0.857 ± 0.008,0.955 ± 0.001,0.904 ± 0.004,0.774 ± 0.010,0.767 ± 0.012
+Classical,LightGBM,Size-matched PURE source,1673 ± 2,0.672 ± 0.049,0.641 ± 0.044,0.949 ± 0.021,0.764 ± 0.024,0.359 ± 0.094,0.292 ± 0.116
+Classical,XGBoost,Full PURE source,6534 ± 0,0.920 ± 0.024,0.907 ± 0.040,0.955 ± 0.003,0.930 ± 0.020,0.839 ± 0.048,0.836 ± 0.050
+Classical,XGBoost,Size-matched PURE source,1673 ± 2,0.658 ± 0.057,0.627 ± 0.047,0.967 ± 0.012,0.760 ± 0.031,0.337 ± 0.116,0.255 ± 0.134
+Transformer,DistilBERT,Full PURE source,5883 ± 5,0.959 ± 0.008,0.953 ± 0.016,0.974 ± 0.007,0.964 ± 0.007,0.917 ± 0.016,0.917 ± 0.016
+Transformer,DistilBERT,Size-matched PURE source,1508 ± 4,0.640 ± 0.077,0.613 ± 0.057,0.988 ± 0.007,0.755 ± 0.040,0.299 ± 0.168,0.205 ± 0.183
+Transformer,BERT,Full PURE source,5883 ± 5,0.952 ± 0.026,0.943 ± 0.048,0.976 ± 0.009,0.958 ± 0.022,0.905 ± 0.051,0.903 ± 0.055
+Transformer,BERT,Size-matched PURE source,1508 ± 4,0.785 ± 0.082,0.745 ± 0.090,0.960 ± 0.013,0.836 ± 0.052,0.587 ± 0.150,0.544 ± 0.184
+Transformer,RoBERTa,Full PURE source,5883 ± 5,0.918 ± 0.084,0.899 ± 0.109,0.978 ± 0.007,0.934 ± 0.061,0.842 ± 0.152,0.828 ± 0.180
+Transformer,RoBERTa,Size-matched PURE source,1508 ± 4,0.653 ± 0.154,0.645 ± 0.161,0.985 ± 0.026,0.769 ± 0.093,0.310 ± 0.310,0.229 ± 0.352
+Transformer,ALBERT,Full PURE source,5883 ± 5,0.965 ± 0.017,0.968 ± 0.029,0.971 ± 0.006,0.969 ± 0.015,0.930 ± 0.034,0.930 ± 0.035
+Transformer,ALBERT,Size-matched PURE source,1508 ± 4,0.776 ± 0.194,0.786 ± 0.207,0.949 ± 0.049,0.843 ± 0.114,0.539 ± 0.408,0.509 ± 0.445
+Transformer,T5,Full PURE source,5883 ± 5,0.922 ± 0.024,0.926 ± 0.044,0.936 ± 0.016,0.930 ± 0.020,0.842 ± 0.049,0.841 ± 0.049
+Transformer,T5,Size-matched PURE source,1508 ± 4,0.656 ± 0.132,0.646 ± 0.144,0.970 ± 0.043,0.766 ± 0.075,0.318 ± 0.264,0.240 ± 0.305

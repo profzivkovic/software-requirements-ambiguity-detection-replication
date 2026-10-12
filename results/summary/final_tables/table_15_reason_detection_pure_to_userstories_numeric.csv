@@ -1,0 +1,51 @@
+﻿family,model,source_dataset,target_dataset,reason,support,detection_recall_mean,detection_recall_std,detection_recall_variance,model_display
+Classical,LightGBM,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,LightGBM
+Classical,LinearSVM,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,Linear SVM
+Classical,MultinomialNB,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,Naive Bayes
+Classical,RandomForest,PURE,UserStories,weak_modal,785,0.9994904458598726,0.0006977357420447975,4.868351657268042e-07,Random Forest
+Classical,XGBoost,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,XGBoost
+Transformer,ALBERT,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,ALBERT
+Transformer,BERT,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,BERT
+Transformer,DistilBERT,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,DistilBERT
+Transformer,RoBERTa,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,RoBERTa
+Transformer,T5,PURE,UserStories,weak_modal,785,1.0,0.0,0.0,T5
+Classical,LightGBM,PURE,UserStories,vague_term,244,0.878688524590164,0.0022447645799392383,5.0389680193497845e-06,LightGBM
+Classical,LinearSVM,PURE,UserStories,vague_term,244,0.9631147540983607,0.0,0.0,Linear SVM
+Classical,MultinomialNB,PURE,UserStories,vague_term,244,1.0,0.0,0.0,Naive Bayes
+Classical,RandomForest,PURE,UserStories,vague_term,244,0.9680327868852459,0.006078851218930886,3.695243214189752e-05,Random Forest
+Classical,XGBoost,PURE,UserStories,vague_term,244,0.8942622950819672,0.00888503417568801,7.89438323031439e-05,XGBoost
+Transformer,ALBERT,PURE,UserStories,vague_term,244,0.9434426229508197,0.022335125563014303,0.000498857833915615,ALBERT
+Transformer,BERT,PURE,UserStories,vague_term,244,0.9483606557377049,0.01704642159269297,0.0002905804891158291,BERT
+Transformer,DistilBERT,PURE,UserStories,vague_term,244,0.9426229508196722,0.01159191444568111,0.0001343724805159904,DistilBERT
+Transformer,RoBERTa,PURE,UserStories,vague_term,244,0.9590163934426229,0.015606092430049009,0.000243550120935233,RoBERTa
+Transformer,T5,PURE,UserStories,vague_term,244,0.8573770491803279,0.04955458688587489,0.002455657081429724,T5
+Classical,LightGBM,PURE,UserStories,undefined_quantity,50,0.9800000000000001,1.2412670766236366e-16,1.5407439555097887e-32,LightGBM
+Classical,LinearSVM,PURE,UserStories,undefined_quantity,50,0.9800000000000001,1.2412670766236366e-16,1.5407439555097887e-32,Linear SVM
+Classical,MultinomialNB,PURE,UserStories,undefined_quantity,50,1.0,0.0,0.0,Naive Bayes
+Classical,RandomForest,PURE,UserStories,undefined_quantity,50,0.9399999999999998,0.019999999999999962,0.0003999999999999985,Random Forest
+Classical,XGBoost,PURE,UserStories,undefined_quantity,50,0.9399999999999998,1.2412670766236366e-16,1.5407439555097887e-32,XGBoost
+Transformer,ALBERT,PURE,UserStories,undefined_quantity,50,0.9640000000000001,0.016733200530681527,0.0002800000000000005,ALBERT
+Transformer,BERT,PURE,UserStories,undefined_quantity,50,0.984,0.03577708763999661,0.0012799999999999984,BERT
+Transformer,DistilBERT,PURE,UserStories,undefined_quantity,50,0.992,0.010954451150103331,0.0001200000000000002,DistilBERT
+Transformer,RoBERTa,PURE,UserStories,undefined_quantity,50,0.984,0.026076809620810618,0.0006800000000000012,RoBERTa
+Transformer,T5,PURE,UserStories,undefined_quantity,50,0.836,0.0433589667773576,0.0018800000000000004,T5
+Classical,LightGBM,PURE,UserStories,undefined_term,31,0.8774193548387096,0.014426245016127662,0.00020811654526534822,LightGBM
+Classical,LinearSVM,PURE,UserStories,undefined_term,31,1.0,0.0,0.0,Linear SVM
+Classical,MultinomialNB,PURE,UserStories,undefined_term,31,1.0,0.0,0.0,Naive Bayes
+Classical,RandomForest,PURE,UserStories,undefined_term,31,0.9870967741935484,0.017668469596940826,0.00031217481789802234,Random Forest
+Classical,XGBoost,PURE,UserStories,undefined_term,31,0.8709677419354838,1.2412670766236366e-16,1.5407439555097887e-32,XGBoost
+Transformer,ALBERT,PURE,UserStories,undefined_term,31,0.9483870967741936,0.028852490032255373,0.0008324661810613957,ALBERT
+Transformer,BERT,PURE,UserStories,undefined_term,31,0.967741935483871,0.045619792334615994,0.002081165452653488,BERT
+Transformer,DistilBERT,PURE,UserStories,undefined_term,31,0.9612903225806452,0.06993381738283483,0.00489073881373569,DistilBERT
+Transformer,RoBERTa,PURE,UserStories,undefined_term,31,0.9870967741935484,0.028852490032255373,0.0008324661810613957,RoBERTa
+Transformer,T5,PURE,UserStories,undefined_term,31,0.7806451612903226,0.1830485285046594,0.033506763787721106,T5
+Classical,LightGBM,PURE,UserStories,multiple_actions,26,0.7307692307692307,0.0,0.0,LightGBM
+Classical,LinearSVM,PURE,UserStories,multiple_actions,26,1.0,0.0,0.0,Linear SVM
+Classical,MultinomialNB,PURE,UserStories,multiple_actions,26,1.0,0.0,0.0,Naive Bayes
+Classical,RandomForest,PURE,UserStories,multiple_actions,26,0.9615384615384615,1.2412670766236366e-16,1.5407439555097887e-32,Random Forest
+Classical,XGBoost,PURE,UserStories,multiple_actions,26,0.6692307692307693,0.021066252211737142,0.0004437869822485201,XGBoost
+Transformer,ALBERT,PURE,UserStories,multiple_actions,26,0.6230769230769231,0.017200522903844526,0.0002958579881656801,ALBERT
+Transformer,BERT,PURE,UserStories,multiple_actions,26,0.6923076923076923,0.13323467750529824,0.01775147928994083,BERT
+Transformer,DistilBERT,PURE,UserStories,multiple_actions,26,0.6846153846153846,0.07398224639104363,0.005473372781065088,DistilBERT
+Transformer,RoBERTa,PURE,UserStories,multiple_actions,26,0.6538461538461539,0.06661733875264912,0.004437869822485207,RoBERTa
+Transformer,T5,PURE,UserStories,multiple_actions,26,0.6153846153846154,0.0,0.0,T5

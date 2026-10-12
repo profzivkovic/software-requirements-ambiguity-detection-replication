@@ -1,0 +1,12 @@
+﻿Component,Configuration
+Random seeds,"13, 21, 42, 87, 123"
+Classical representation,TF-IDF word unigrams+bigrams; lowercase=True; min_df=2; max_df=0.95; sublinear_tf=True
+Classical models,"Multinomial Naive Bayes; Linear SVM; Random Forest (400 trees, balanced class weights); LightGBM (600 estimators, lr=0.05, 31 leaves); XGBoost (600 estimators, lr=0.05, depth=6)"
+Encoder transformers,"DistilBERT, BERT, RoBERTa, ALBERT; max length=128; up to 3 epochs; AdamW; lr=3e-5; batch=8; weight decay=0.01; warmup=0.06; validation-F1 checkpoint selection"
+T5,t5-small text-to-text yes/no; review-support prompt; max input length=128; max target length=8; up to 3 epochs; lr=1e-4; batch=8; weight decay=0.01; warmup=0.06
+Intra-corpus protocol,Source-disjoint locked splits. Transformers use train/validation/test (approximately 70/10/20); classical models combine train+validation and evaluate on the same held-out test set.
+Cross-corpus classical protocol,Train on the complete source corpus; evaluate on the complete target corpus.
+Cross-corpus transformer protocol,Source-only source-disjoint approximately 90/10 train/validation; complete external target corpus used only for final testing.
+Size-matched control,PURE source restricted to complete source groups approximately matching User Stories corpus size; target remains the complete User Stories corpus.
+Rule baseline,Frozen requirements-smell-style surface-cue regex baseline.
+Reported variability,All five-seed performance tables report mean ± sample SD; numeric companion tables additionally report sample variance (SD²).
